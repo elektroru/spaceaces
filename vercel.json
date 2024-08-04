@@ -1,14 +1,7 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)//(.*)",
-      "destination": "/$1/$2",
-      "permanent": true
-    }
-  ],
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "*",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
