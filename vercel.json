@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "(.*)",
+      "source": "/spacemap/(.*)",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
