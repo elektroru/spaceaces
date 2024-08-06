@@ -298,7 +298,7 @@
         "75": ["ships/bosskuc", 36, 1, true, false, true],
         "76": ["ships/demaner", 32, 0, true, false, true],
         "77": ["ships/icy", 32, 0, false, false, true],
-        "78": ["ships/vanquisher", 32, 0, true, true, true, "png"],
+        "78": ["ships/vanquisher", 32, 0, true, true, true],
         "79": ["ships/sovereign", 32, 0, true, true, true],
         "80": ["ships/peacemaker", 32, 0, true, true, true],
         "81": ["ships/saturn", 32, 0, true, true, true],
