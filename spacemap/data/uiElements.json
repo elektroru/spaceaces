@@ -276,7 +276,23 @@
                     "name": "win11rl_off",
                     "isCheck": true,
                     "options": []
+                },
+                {
+                    "name": "actionbar_doublestop",
+                    "isCheck": true,
+                    "options": []
+                },
+                {
+                    "name": "rgb_disabled",
+                    "isCheck": true,
+                    "options": []
                 }, 
+                {
+                    "name": "glow_disabled",
+                    "isCheck": true,
+                    "options": []
+                }],
+ 
                 {
                     "name": "actionbar_doublestop",
                     "isCheck": true,
