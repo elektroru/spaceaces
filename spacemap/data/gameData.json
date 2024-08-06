@@ -640,6 +640,8 @@
     "DBL_ATTACK": 1,
     "STICKY_ATTACK": 3,
     "WIN11RL": 2,
+    "RGB_DISABLED": 4,
+    "GLOW_DISABLED": 5,
     "USERNAMES": 0,
     "HITS": 1,
     "DRONES": 2,
