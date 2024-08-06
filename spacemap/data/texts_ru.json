@@ -1217,4 +1217,6 @@
   "pal_buy_slot_success": "Слот разблокирован!",
   "module": "Модуль",
   "enhancing_module": "Улучшающий модуль"
+  "rgb_disabled_sett": "Отключить свечение RGB"
+  "glow_disabled_sett": "Отключить цветную ауру кораблей"
 }
