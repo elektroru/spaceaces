@@ -603,10 +603,10 @@
         }
     },
     "shields": {
-        "advancedShield": ["shields/shieldAdvanced", 33, 1, true],
+        "advancedShield": ["shields/shieldAdvanced", 33, 1],
         "instaShield": ["shields/instaShield", 64, 1, true],
         "barrier": ["shields/barrier", 9, 1],
-        "shieldRecharge": ["shields/shieldRecharge", 33, 1],
+        "shieldRecharge": ["shields/shieldRecharge", 51, 1, true],
         "invincibilityShield": ["shields/invincibilityShield", 31, 1, true]
     },
     "sfx": {
