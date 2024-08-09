@@ -249,7 +249,7 @@
                 }, {
                     "name": "language",
                     "isCheck": false,
-                    "options": [{"id": 1, "label": "czech", "val": "cz"}, {"id": 2, "label": "english", "val": "en"}, {"id": 3, "label": "german", "val": "de"}, {"id": 4, "label": "turkish", "val": "tr"}, {"id": 5, "label": "russian", "val": "ru"}, {"id": 6, "label": "spanish", "val": "es"}, {"id": 7, "label": "french", "val": "fr"}]
+                    "options": [{"id": 1, "label": "czech", "val": "cz"}, {"id": 2, "label": "english", "val": "en"}, {"id": 3, "label": "german", "val": "de"}, {"id": 4, "label": "turkish", "val": "tr"}, {"id": 5, "label": "russian", "val": "ru"}, {"id": 6, "label": "spanish", "val": "es"}]
                 },
                 {
                     "name": "lasers",
@@ -271,8 +271,8 @@
                     "name": "dblclick_attack",
                     "isCheck": true,
                     "options": []
-                },
-                 {
+                },                
+                {
                     "name": "win11rl_off",
                     "isCheck": true,
                     "options": []
@@ -289,11 +289,6 @@
                 }, 
                 {
                     "name": "glow_disabled",
-                    "isCheck": true,
-                    "options": []
-                }], 
-                {
-                    "name": "actionbar_doublestop",
                     "isCheck": true,
                     "options": []
                 }],
@@ -479,6 +474,10 @@
                 },
                 {
                     "name": "pal_p_rep_button",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "pal_sacrifice",
                     "isKeyInput": true
                 }],
                 [{
@@ -1170,7 +1169,7 @@
                         "14": 284829000,
                         "15": 434829000
                     },
-                    "pvp": {
+                                        "pvp": {
                         "1": 60,
                         "2": 180,
                         "3": 360,

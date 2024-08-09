@@ -85,7 +85,7 @@
     "81": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "82": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "108": {"engineClass": 9999, "laserClass": 9999, "offsetId": 1, "clickRadius": 70},
-    "84": {"engineClass": 38, "laserClass": 40, "offsetId": 1, "clickRadius": 70},
+    "84": {"engineClass": 38, "laserClass": 43, "offsetId": 1, "clickRadius": 70, "visualExpansions": [9]},
     "85": {"engineClass": 38, "laserClass": 41, "offsetId": 1, "clickRadius": 70},
     "86": {"engineClass": 38, "laserClass": 42, "offsetId": 1, "clickRadius": 70},
     "87": {"engineClass": 38, "laserClass": 43, "offsetId": 1, "expansionId": 9, "clickRadius": 70},
@@ -289,6 +289,13 @@
       "y": -50
     }
   },
+  "expansionConfig": {
+    "selfAnimating": [18,19],
+    "animationTime": {
+        "18": 5000,
+        "19": 3000
+    }
+  },
   "animationTimes": {
     "EXPLOSIONS": {
       "explosion": {
@@ -366,7 +373,8 @@
       "5": 800,
       "6": 800,
       "7": 1500,
-      "8": 1500
+      "8": 1500,
+      "9": 1500
     },
     "BEAMS": {
       "0": 500
