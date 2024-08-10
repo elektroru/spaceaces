@@ -164,6 +164,14 @@
             "generator": 15,
             "extra": 0,
             "structureModule": 1
+        },
+        "18": {
+            "laser": 0,
+            "rLauncher": 5,
+            "generator": 8,
+            "extra": 1,
+            "module": 3,
+            "structureModule": 1
         }
     },
     "palSlots": {
@@ -301,6 +309,9 @@
         "dd": {
             "5": {"id": 5, "popoverKey": "dd_havoc", "iconPath": "/drone", "name": "havoc", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]},
             "6": {"id": 6, "popoverKey": "dd_hercules", "iconPath": "/drone", "name": "hercules", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]}
+        },
+        "protocol": {
+            "1": {"id": 1, "simple": "PE-SCR-01", "popoverKey": "pal_enhance1", "iconPath": "/protocol", "name": "PE-SCR-01", "type": "protocol", "subtype": "ship", "sizes": ["30", "63", "100"]}
         }
     },
     "shipSkillIdToChar": {
