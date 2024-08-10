@@ -381,6 +381,16 @@
       "maxBar": 50,
       "toggleable": true,
       "popover": {"txtKey": "clo4k-xl_tooltip"}
+    },
+    {
+      "name": "t4rgt-cpu",
+      "id": 7,
+      "hasBar": true,
+      "isSelectable": true,
+      "hasAmount": true,
+      "maxBar": 50,
+      "toggleable": true,
+      "popover": {"txtKey": "t4rgt-cpu_tooltip"}
     }
   ],
   "6": [],
