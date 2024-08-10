@@ -37,16 +37,16 @@
         }
     },
     "stations": {
-        "Eic": ["stations/baseEic", 0, 0, true, true, true, true],
-        "Mmo": ["stations/baseMmo", 0, 0, true, true, true, true],
-        "Vru": ["stations/baseVru", 0, 0, true, true, true, true],
+        "Eic": ["stations/baseEic", 0, 0, true, true, true],
+        "Mmo": ["stations/baseMmo", 0, 0, true, true, true],
+        "Vru": ["stations/baseVru", 0, 0, true, true, true],
         "Low": ["stations/baseLow", 0, 0, true, true, true, true], 
-        "EicAdvanced": ["stations/baseEicAdvanced", 0, 0, true, true, true, true],
-        "MmoAdvanced": ["stations/baseMmoAdvanced", 0, 0, true, true, true, true],
+        "EicAdvanced": ["stations/baseEicAdvanced", 0, 0, true, true, true],
+        "MmoAdvanced": ["stations/baseMmoAdvanced", 0, 0, true, true, true],
+		"VruAdvanced": ["stations/baseVruAdvanced", 0, 0, true, true, true],
         "Saturn": ["stations/baseSaturn", 0, 0, true, true, true, true],
         "SaturnAdvanced": ["stations/baseSaturnAdvanced", 0, 0, true, true, true, true],
-        "Saturn1Advanced": ["stations/baseSaturn1Advanced", 0, 0, true, true, true, true],
-        "VruAdvanced": ["stations/baseVruAdvanced", 0, 0, true, true, true, true]
+        "Saturn1Advanced": ["stations/baseSaturn1Advanced", 0, 0, true, true, true, true]
     },
     "stationEngines": {
         "Eic": ["stations/engineEic", 0, 0, true, true, true, true],
