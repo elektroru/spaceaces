@@ -790,9 +790,7 @@
       "5": ["collectables/blueBox", 25, 1, true],
       "6": ["collectables/cargoBox", 25, 1, true],
       "7": ["collectables/expobox", 42, 1, true],
-      "8": ["collectables/petBox", 26, 1, false],
-      "9": ["collectables/cargoBox", 26, 1, true],
-      "10": ["collectables/spacecupBox", 39, 0, false]
+      "8": ["collectables/petBox", 26, 1, false]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
