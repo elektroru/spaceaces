@@ -53,9 +53,6 @@
       "Mmo": ["stations/engineMmo", 0, 0, true, true, true, true],
       "Vru": ["stations/engineVru", 0, 0, true, true, true, true]
   },
-  "laserLight": {
-        "0": ["laserLights/0",0,0]
-    },
   "bg": {
       "1": ["backgrounds/background1", 0, 0, false, true, true, true, "jpg"],
       "2": ["backgrounds/background2", 0, 0, false, true, true, true, "jpg"],
