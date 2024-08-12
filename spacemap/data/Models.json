@@ -31,7 +31,7 @@
   "image": {
       "shopImg": {
           "1": {
-              "american": ["image/shopImg/1/american", 0,0,false, true, true, true],
+              "american": ["image/shopImg/1/american", 0,0, false, true, true, true],
               "american_detail": ["image/shopImg/1/american_detail", 0,0,false, true, true, true, "gif"]
           }
       }
