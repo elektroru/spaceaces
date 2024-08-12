@@ -335,6 +335,11 @@
                     "name": "drone_own_display",
                     "isCheck": true,
                     "options": []
+                },
+                {
+                    "name": "18+_filter",
+                    "isCheck": true,
+                    "options": []
                 }
             ],
                 [{
