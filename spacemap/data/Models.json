@@ -46,7 +46,7 @@
 	  "VruAdvanced": ["stations/baseVruAdvanced", 0, 0, false, true, true, true],
       "Saturn": ["stations/baseSaturn", 0, 0, true, true, true, true],
       "SaturnAdvanced": ["stations/baseSaturnAdvanced", 0, 0, true, true, true, true],
-      "Saturn1Advanced": ["stations/baseSaturn1Advanced", 0, 0, true, true, true, true],
+      "Saturn1Advanced": ["stations/baseSaturn1Advanced", 0, 0, true, true, true, true]
   },
   "stationEngines": {
       "Eic": ["stations/engineEic", 0, 0, true, true, true, true],
