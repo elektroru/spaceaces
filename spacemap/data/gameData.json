@@ -106,7 +106,8 @@
     "100": {"engineClass": 9999, "canBeLocked": false, "allowHover": false, "useDot": "cbsfaction", "allowShowTime": true, "diploAffectDot": true, "destroyedDot": "cbsdead", "laserClass": 9999, "offsetId": 32, "clickRadius": 70, "useController": "base"},
     "101": {"engineClass": 9999, "allowHover": false, "useDot": "cbsfaction", "allowShowTime": true, "diploAffectDot": true, "laserClass": 9999, "offsetId": 32, "clickRadius": 70, "useController": "base", "explosionSize": 3},
     "102": {"engineClass": 9999, "showNameOnDead": false, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 35, "clickRadius": 70, "isSpinny": true, "canBeLocked": false},
-    "103": {"engineClass": 9999, "lockOffsetY": 40, "showOnMinimap": false, "shieldOffset": 40, "allowHover": false, "laserClass": 9999, "offsetId": 35, "clickRadius": 70, "expansionOffsetY": 42, "expansionOffsetX": 0}
+    "103": {"engineClass": 9999, "lockOffsetY": 40, "showOnMinimap": false, "shieldOffset": 40, "allowHover": false, "laserClass": 9999, "offsetId": 35, "clickRadius": 70, "expansionOffsetY": 42, "expansionOffsetX": 0},
+    "109": {"engineClass": 39, "lockOffsetY": 20, "laserClass": 80, "offsetId": 37, "clickRadius": 70}
   },  
   "offsets": {
     "EXPANSION_OFFSETS": {
@@ -132,6 +133,7 @@
       "17": {"nickY": 35 },
       "18": {"nickY": 80 },
       "19": {"nickY": 35 },
+      "36": {"nickY": 35 },
       "20": {"nickY": 20 },
       "21": {"nickY": 50 },
       "22": {"nickY": 0 },
@@ -147,7 +149,8 @@
       "32": {"nickY": 220 },
       "33": {"nickY": 0 },
       "34": {"nickY": 400 },
-      "35": {"nickY": -20 }
+      "35": {"nickY": -20 },
+      "37": {"nickY": 75 }
     },
     "ENGINE_OFFSETS": {
       "0": { "x": 30, "y": 30 }
@@ -374,7 +377,8 @@
       "6": 800,
       "7": 1500,
       "8": 1500,
-      "9": 1500
+      "9": 1500,
+      "10": 1500
     },
     "BEAMS": {
       "0": 500
@@ -465,7 +469,13 @@
       "40": [["CenterFront"],["CenterFront"]],
       "41": [["CenterFront"],["CenterRear"],["CenterRear","CenterFront"]],
       "42": [["CenterRear"],["CenterFront","RightRearOuter","LeftRearOuter"],["RightRearOuter","LeftRearOuter"],["CenterFront"],["CenterFront","RightFrontOuter","LeftFrontOuter"],["RightFrontInner","LeftFrontInner"]],
-      "43": [["RightFrontInner","LeftFrontInner"],["CenterFront","RightRearOuter","LeftRearOuter"],["RightFrontInner","LeftFrontInner"],["CenterMiddle","RightRearOuter","LeftRearOuter"],["RightFrontInner","LeftFrontInner"],["CenterFront","RightFrontOuter","LeftFrontOuter"],["RightFrontInner","LeftFrontInner"],["CenterMiddle","RightRearOuter","LeftRearOuter"]]
+      "43": [["RightFrontInner","LeftFrontInner"],["CenterFront","RightRearOuter","LeftRearOuter"],["RightFrontInner","LeftFrontInner"],["CenterMiddle","RightRearOuter","LeftRearOuter"],["RightFrontInner","LeftFrontInner"],["CenterFront","RightFrontOuter","LeftFrontOuter"],["RightFrontInner","LeftFrontInner"],["CenterMiddle","RightRearOuter","LeftRearOuter"]],
+      "80": [
+        ["LeftRear", "RightRear"],
+        ["CenterRear"],
+        ["LeftFront", "RightFront"],
+        ["CenterFront"]
+      ]
     }
   },
   "gameMsg": {
@@ -512,6 +522,7 @@
     "RLAUNCHER_RADIUS": 500,
     "BARRIER_RADIUS": 10,
     "NICK_Y": 120,
+    "SHIP_INFO_BORDER": 3,
     "LOCKON_RING": 15,
     "DRONE_DISTANCE": 100,
     "DRONE_SIMPLE_Y": -5,
@@ -634,6 +645,8 @@
     "SOUND": 3,
     "KEYBOARD": 4,
     "GAMEPAD": 5,
+    "18PLUSFILTER": 10,
+    "NAMES_BORDER": 11,
     "BG": 0,
     "OBJECTS": 1,
     "NEBULAS": 2,
@@ -698,7 +711,8 @@
       "PAL_REPAIR": 30,
       "PAL_ACTIVATE": 31,
       "PAL_GUARD": 32,
-      "PAL_P_REPAIR": 33
+      "PAL_P_REPAIR": 33,
+      "PAL_SACRIFICAL": 34
     },
     "GAMEPADBINDS": {
       "AB_1": 0,
