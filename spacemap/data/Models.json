@@ -329,7 +329,7 @@
       "105": ["rockets/7", 0, 0, false, true, true],
       "106": ["ships/nstarhawk", 32, 0, false, true, true],
       "107": ["ships/golitech", 32, 0, false, true, true],
-      "108": ["ships/constructionBot", 31, 0, false],
+      "108": ["ships/constructionBot", 32, 0, false],
       "109": ["ships/lspacefire", 32, 0, false, true, true]
   },
   "minimap": {
