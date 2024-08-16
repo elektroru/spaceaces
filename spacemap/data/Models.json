@@ -219,7 +219,8 @@
       "104": ["ships/simple/referee", 0, 0, false],
       "105": ["ships/simple/referee", 0, 0, false],
       "106": ["ships/simple/referee", 0, 0, false],
-      "107": ["ships/simple/referee", 0, 0, false]
+      "107": ["ships/simple/referee", 0, 0, false],
+      "109": ["ships/simple/referee", 0, 0, false]
   },
   "ships": {
       "1": ["ships/enforcer", 32, 0, true, true, true],
@@ -327,7 +328,9 @@
       "104": ["ships/beamShip", 0, 0, false, true, true],
       "105": ["rockets/7", 0, 0, false, true, true],
       "106": ["ships/nstarhawk", 32, 0, false, true, true],
-      "107": ["ships/golitech", 32, 0, false, true, true]
+      "107": ["ships/golitech", 32, 0, false, true, true],
+      "108": ["ships/constructionBot", 31, 0, false],
+      "109": ["ships/lspacefire", 32, 0, false, true, true]
   },
   "minimap": {
       "dots": {
@@ -701,13 +704,17 @@
               "3": ["lasers/classic/laser3", 0, 0],
               "4": ["lasers/classic/laser4", 0, 0],
               "5": ["lasers/classic/laser5", 0, 0],
+              "6": ["lasers/classic/laser6", 0, 0],
+              "7": ["lasers/classic/laser7", 0, 0],
               "leech": ["lasers/classic/laserLeech", 0, 0],
               "beam0": ["lasers/classic/laser0Beam", 0, 0],
               "beam1": ["lasers/classic/laser1Beam", 0, 0],
               "beam2": ["lasers/classic/laser2Beam", 0, 0],
               "beam3": ["lasers/classic/laser3Beam", 0, 0],
               "beam4": ["lasers/classic/laser4Beam", 0, 0],
-              "beam5": ["lasers/classic/laser5Beam", 0, 0]
+              "beam5": ["lasers/classic/laser5Beam", 0, 0],
+              "beam6": ["lasers/classic/laser6Beam", 0, 0],
+              "beam7": ["lasers/classic/laser7Beam", 0, 0]
           },
           "big": {
               "0": ["lasers/classic/bigLaser0", 0, 0],
@@ -716,12 +723,16 @@
               "3": ["lasers/classic/bigLaser3", 0, 0],
               "4": ["lasers/classic/bigLaser4", 0, 0],
               "5": ["lasers/classic/bigLaser5", 0, 0],
+              "6": ["lasers/classic/bigLaser6", 0, 0],
+              "7": ["lasers/classic/bigLaser7", 0, 0],
               "beam0": ["lasers/classic/bigLaser0Beam", 0, 0],
               "beam1": ["lasers/classic/bigLaser1Beam", 0, 0],
               "beam2": ["lasers/classic/bigLaser2Beam", 0, 0],
               "beam3": ["lasers/classic/bigLaser3Beam", 0, 0],
               "beam4": ["lasers/classic/bigLaser4Beam", 0, 0],
               "beam5": ["lasers/classic/bigLaser5Beam", 0, 0],
+              "beam6": ["lasers/classic/bigLaser6Beam", 0, 0],
+              "beam7": ["lasers/classic/bigLaser7Beam", 0, 0],
               "leech": ["lasers/classic/laserLeech", 0, 0]
           }
       },
@@ -733,12 +744,16 @@
               "3": ["lasers/modern/laser3", 0, 0],
               "4": ["lasers/modern/laser4", 0, 0],
               "5": ["lasers/modern/laser5", 0, 0],
+              "6": ["lasers/modern/laser6", 0, 0],
+              "7": ["lasers/modern/laser7", 0, 0],
               "beam0": ["lasers/modern/laser0Beam", 0, 0],
               "beam1": ["lasers/modern/laser1Beam", 0, 0],
               "beam2": ["lasers/modern/laser2Beam", 0, 0],
               "beam3": ["lasers/modern/laser3Beam", 0, 0],
               "beam4": ["lasers/modern/laser4Beam", 0, 0],
               "beam5": ["lasers/modern/laser5Beam", 0, 0],
+              "beam6": ["lasers/modern/laser6Beam", 0, 0],
+              "beam7": ["lasers/modern/laser7Beam", 0, 0],
               "leech": ["lasers/modern/laserLeech", 0, 0]
           },
           "big": {
@@ -748,12 +763,16 @@
               "3": ["lasers/modern/bigLaser3", 0, 0],
               "4": ["lasers/modern/bigLaser4", 0, 0],
               "5": ["lasers/modern/bigLaser5", 0, 0],
+              "6": ["lasers/modern/bigLaser6", 0, 0],
+              "7": ["lasers/modern/bigLaser7", 0, 0],
               "beam0": ["lasers/modern/bigLaser0Beam", 0, 0],
               "beam1": ["lasers/modern/bigLaser1Beam", 0, 0],
               "beam2": ["lasers/modern/bigLaser2Beam", 0, 0],
               "beam3": ["lasers/modern/bigLaser3Beam", 0, 0],
               "beam4": ["lasers/modern/bigLaser4Beam", 0, 0],
               "beam5": ["lasers/modern/bigLaser5Beam", 0, 0],
+              "beam6": ["lasers/modern/bigLaser6Beam", 0, 0],
+              "beam7": ["lasers/modern/bigLaser7Beam", 0, 0],
               "leech": ["lasers/modern/laserLeech", 0, 0]
           }
       }
@@ -774,7 +793,9 @@
       "5": ["collectables/blueBox", 25, 1, true],
       "6": ["collectables/cargoBox", 25, 1, true],
       "7": ["collectables/expobox", 42, 1, true],
-      "8": ["collectables/petBox", 26, 1, false]
+      "8": ["collectables/petBox", 26, 1, false],
+      "9": ["collectables/cargoBox", 26, 1, true],
+      "10": ["collectables/spacecupBox", 39, 0, false]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
@@ -784,5 +805,8 @@
   },
   "pings": {
       "std": ["ui/ping", 0,0]
+  },
+    "fields": {
+
   }
 }

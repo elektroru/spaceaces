@@ -1514,6 +1514,19 @@
                 "useDefPosition": true
             }
         },
+		{
+            "id": 18,
+            "position": 14,
+            "dynamic": true,
+            "name": "spaceball_new",
+            "icon": "spaceball",
+            "label": "spaceball_label",
+            "controller": {
+                "x": -20,
+                "y": 273,
+                "useDefPosition": true
+            }
+        },
         {
             "id": 19,
             "position": 15,
