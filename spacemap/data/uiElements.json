@@ -340,6 +340,11 @@
                     "name": "18+_filter",
                     "isCheck": true,
                     "options": []
+                },
+				{
+                    "name": "username_borders",
+                    "isCheck": true,
+                    "options": []
                 }
             ],
                 [{
