@@ -82,10 +82,10 @@
   }
   @font-face {
     font-family: "CorpFontRegular";
-    src: url("https://akumwow.uk/spacemap/fonts/EurostileRegular.ttf") format('truetype');
+    src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
   }
     @font-face {
-    font-family: "CorpFontUsername";
+    font-family: "CorpFontHeavy";
     src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
   }
   

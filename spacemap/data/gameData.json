@@ -529,7 +529,7 @@
     "DRONE_SIMPLE_MARGIN_X": 3,
     "DRONE_SIMPLE_FONT": "12px sans-serif",
     "SKILL_VISUAL_FONT": "bold 10px CorpFontRegular",
-    "USERNAME_FONT": "550 17px CorpFontUsername",
+    "USERNAME_FONT": "550 17px CorpFontRegular",
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
