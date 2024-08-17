@@ -522,7 +522,7 @@
     "RLAUNCHER_RADIUS": 500,
     "BARRIER_RADIUS": 10,
     "NICK_Y": 120,
-    "SHIP_INFO_BORDER": 1,
+    "SHIP_INFO_BORDER": 3,
     "LOCKON_RING": 15,
     "DRONE_DISTANCE": 100,
     "DRONE_SIMPLE_Y": -5,
@@ -533,7 +533,7 @@
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
-	"SHIP_INFO_BORDER": 3
+	"SHIP_INFO_BORDER": 5
   },
   "titleColors": {
     "default": "#fefe00",
