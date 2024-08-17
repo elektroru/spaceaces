@@ -677,7 +677,7 @@
     "GM_ST": 1,
     "GM_SOUNDS_VOL": 2,
     "GM_ST_VOL": 3,
-	"NAMES_BORDER": 6,
+	"NAMES_BORDER": 11,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,

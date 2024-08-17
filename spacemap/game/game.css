@@ -74,8 +74,8 @@
     src: url("https://akumwow.uk/spacemap/fonts/EurostileRegular.ttf") format('truetype');
   }
   @font-face {
-    font-family: "CorpFontHeavy";
-    src: url("https://akumwow.uk/spacemap/fonts/EurostileThea.ttf") format('truetype');
+    font-family: "CorpFontUsername";
+    src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
   }
   
   .circle-bg { 
