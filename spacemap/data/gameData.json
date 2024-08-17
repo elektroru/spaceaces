@@ -533,7 +533,7 @@
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
-	"SHIP_INFO_BORDER": 5
+	"SHIP_INFO_BORDER": 6
   },
   "titleColors": {
     "default": "#fefe00",
