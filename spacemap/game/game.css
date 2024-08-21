@@ -7230,7 +7230,7 @@
   }
   .quests .detailed .navbar-item::before {
     text-align: center;
-    content: "ГўвЂ“Вє";
+    content: "►";
     position: absolute;
     left: 2px;
   }
