@@ -39,7 +39,8 @@
         "95": {"name": "G-RGB", "icon": "rgbg", "desc": "rgbg_shop_desc"},
         "81": {"name": "G-Saturn", "icon": "saturn", "desc": "saturn_shop_desc"},
         "106": {"name": "N-Starhawk", "icon": "nenvoy", "desc": "nstarhawk_shop_desc"},
-        "107": {"name": "G-Tech", "icon": "gtech", "desc": "gtech_shop_desc"}
+        "107": {"name": "G-Tech", "icon": "gtech", "desc": "gtech_shop_desc"},
+        "109": {"name": "Tartarus", "icon": "lspacefire", "desc": "lspacefire_shop_desc"}
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},
@@ -81,7 +82,8 @@
         "3": {"name": "MCB-50","icon": "mcb50", "desc": "mcb50_shop_desc"},
         "4": {"name": "SAB-50","icon": "sab", "desc": "sab_shop_desc"},
         "5": {"name": "UCB-100","icon": "ucb", "desc": "ucb_shop_desc"},
-        "6": {"name": "RSB-75","icon": "rsb", "desc": "rsb_shop_desc"}
+        "6": {"name": "RSB-75","icon": "rsb", "desc": "rsb_shop_desc"},
+        "7": {"name": "CBO-X","icon": "hsax", "desc": "hsax_shop_desc"} 
     },
     "7": {
         "1": {"name": "R-310","icon": "r310", "desc": "r310_shop_desc"},
@@ -94,7 +96,8 @@
         "8": {"name": "HSTRM-01","icon": "hstrm", "desc": "hstrm_shop_desc"},
         "9": {"name": "UBR-100","icon": "ubr", "desc": "ubr_shop_desc"},
         "10": {"name": "SAR-01","icon": "sar01", "desc": "sar01_shop_desc"},
-        "11": {"name": "SAR-02","icon": "sar02", "desc": "sar02_shop_desc"}
+        "11": {"name": "SAR-02","icon": "sar02", "desc": "sar02_shop_desc"},
+        "12": {"name": "HSRA-PT","icon": "hsrapt", "desc": "hsrapt_shop_desc"}
     },
     "8": {
         "1": {"name": "ACM-01","icon": "acm", "desc": "acm_shop_desc"},
