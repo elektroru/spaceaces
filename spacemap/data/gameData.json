@@ -302,7 +302,7 @@
   "animationTimes": {
     "EXPLOSIONS": {
       "explosion": {
-        "0": 1500
+        "0": 1200
       },
       "disrupt": {
         "0": 500
@@ -315,7 +315,7 @@
       "rocket": {
         "0": 1000
       },
-      "smartBomb": 3000,
+      "smartBomb": 3500,
       "mine": {
         "0": 500,
         "2": 500,
@@ -333,7 +333,7 @@
       "instaShield": 3000,
       "emp": 1500,
       "flash": 500,
-      "leech": 1000,
+      "leech": 1100,
       "barrier": 500,
       "shieldRecharge": 1500,
       "Fortress": 2000,
