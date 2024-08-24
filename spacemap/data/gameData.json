@@ -333,7 +333,7 @@
       "instaShield": 3000,
       "emp": 1500,
       "flash": 500,
-      "leech": 500,
+      "leech": 1000,
       "barrier": 500,
       "shieldRecharge": 1500,
       "Fortress": 2000,
