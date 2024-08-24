@@ -329,7 +329,7 @@
       }
     },
     "SHIELDS": {
-      "advancedShield": 1500,
+      "advancedShield": 1200,
       "instaShield": 3000,
       "emp": 1500,
       "flash": 500,
