@@ -330,7 +330,10 @@
       "106": ["ships/nstarhawk", 32, 0, false, true, true],
       "107": ["ships/golitech", 32, 0, false, true, true],
       "108": ["ships/constructionBot", 32, 0, false],
-      "109": ["ships/lspacefire", 32, 0, false, true, true]
+      "109": ["ships/lspacefire", 32, 0, false, true, true],
+	  "110": ["ships/vreferee", 32, 0, true, true, true],
+      "111": ["ships/vkick", 32, 0, true, true, true],
+      "112": ["ships/vgoal", 32, 0, true, true, true]
   },
   "minimap": {
       "dots": {
