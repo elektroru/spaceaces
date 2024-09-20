@@ -313,7 +313,7 @@
             "3": {"id": 3, "popoverKey": "skm-03", "iconPath": "/skill/ship", "name": "skm-03", "compatibleShipClass": [1,12,13,14], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "4": {"id": 4, "popoverKey": "skm-04", "iconPath": "/skill/ship", "name": "skm-04", "compatibleShipClass": [1,12,13,14], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "5": {"id": 5, "popoverKey": "skm-05", "iconPath": "/skill/ship", "name": "skm-05", "compatibleShipClass": [1,12,13,14], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
-            "6": {"id": 6, "popoverKey": "skm-06", "iconPath": "/skill/ship", "name": "skm-06", "compatibleShipClass": [2,15,12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
+            "6": {"id": 6, "simple": "SKM-06", "popoverKey": "skm-06", "iconPath": "/skill/ship", "name": "skm-06", "compatibleShipClass": [2,15,12,19], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "7": {"id": 7, "popoverKey": "skm-07", "iconPath": "/skill/ship", "name": "skm-07", "compatibleShipClass": [4], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]}
         },
         "module": {
