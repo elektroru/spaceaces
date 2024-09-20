@@ -381,7 +381,8 @@
       "7": 1500,
       "8": 1500,
       "9": 1500,
-      "10": 1500
+      "10": 1500,
+	  "11": 1200
     },
     "BEAMS": {
       "0": 500
@@ -721,7 +722,8 @@
       "TECH_PRECISION": 36,
       "TECH_ROBOT": 37,
       "TECH_BSHD": 38,
-      "TECH_LEECH": 39
+      "TECH_LEECH": 39,
+	  "TRIGGER_CLOAK": 40
     },
     "GAMEPADBINDS": {
       "AB_1": 0,

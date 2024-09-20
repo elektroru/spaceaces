@@ -331,7 +331,8 @@
             "6": {"id": 6, "popoverKey": "dd_hercules", "iconPath": "/drone", "name": "hercules", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]}
         },
         "protocol": {
-            "1": {"id": 1, "simple": "PE-SCR-01", "popoverKey": "pal_enhance1", "iconPath": "/protocol", "name": "PE-SCR-01", "type": "protocol", "subtype": "ship", "sizes": ["30", "63", "100"]}
+            "1": {"id": 1, "simple": "PE-SCR-01", "popoverKey": "pal_enhance1", "iconPath": "/protocol", "name": "PE-SCR-01", "type": "protocol", "subtype": "ship", "sizes": ["30", "63", "100"]},
+			"2": {"id": 1, "simple": "PE-SCR-02", "popoverKey": "pal_enhance2", "iconPath": "/protocol", "name": "PE-SCR-02", "type": "protocol", "subtype": "ship", "sizes": ["30", "63", "100"]}
         }
     },
     "shipSkillIdToChar": {

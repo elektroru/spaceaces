@@ -509,6 +509,10 @@
                 {
                     "name": "tech_leech",
                     "isKeyInput": true
+                },
+				{
+                    "name": "trigger_cloak",
+                    "isKeyInput": true
                 }],
                 [{
                     "name": "action_button_1",
