@@ -44,7 +44,10 @@
         "92": 1,
         "93": 1,
         "94": 1,
-        "95": 14
+        "95": 14,
+		"110": 19,
+        "111": 19,
+        "112": 19,
     },
     "shipTypeSlots": {
         "0": {
@@ -173,7 +176,15 @@
             "extra": 1,
             "module": 3,
             "structureModule": 1
-        }
+        },
+		 "19": {
+            "laser": 13,
+            "rLauncher": 1,
+            "generator": 12,
+            "extra": 1,
+            "module": 3,
+            "structureModule": 1
+        },
     },
     "palSlots": {
         "0": {
