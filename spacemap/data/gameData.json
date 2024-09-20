@@ -111,7 +111,7 @@
 	"110": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
     "111": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
     "112": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
-  },  
+  },
   "offsets": {
     "EXPANSION_OFFSETS": {
       "12": {"x": 25, "y": -17}
