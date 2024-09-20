@@ -489,6 +489,26 @@
                 {
                     "name": "pal_sacrifice",
                     "isKeyInput": true
+                },
+				{
+                    "name": "pal_rampage",
+                    "isKeyInput": true
+                },
+				{
+                    "name": "tech_precision",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "tech_rbot",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "tech_bshd",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "tech_leech",
+                    "isKeyInput": true
                 }],
                 [{
                     "name": "action_button_1",

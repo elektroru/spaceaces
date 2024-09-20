@@ -716,7 +716,12 @@
       "PAL_ACTIVATE": 31,
       "PAL_GUARD": 32,
       "PAL_P_REPAIR": 33,
-      "PAL_SACRIFICAL": 34
+      "PAL_SACRIFICAL": 34,
+	  "PAL_RAMPAGE": 35,
+      "TECH_PRECISION": 36,
+      "TECH_ROBOT": 37,
+      "TECH_BSHD": 38,
+      "TECH_LEECH": 39
     },
     "GAMEPADBINDS": {
       "AB_1": 0,
