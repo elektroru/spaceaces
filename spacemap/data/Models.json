@@ -223,7 +223,7 @@
       "109": ["ships/simple/referee", 0, 0, false]
   },
   "ships": {
-      "1": ["ships/enforcer", 33, 1, false, true, true],
+      "1": ["ships/enforcer", 32, 0, false, true, true],
       "2": ["ships/bastion", 32, 0, true, true, true],
       "3": ["ships/vengeance", 32, 0, true, true, true],
       "4": ["ships/avenger", 32, 0, true, true, true],
