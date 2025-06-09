@@ -95,7 +95,7 @@
     "91": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "92": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "93": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "94": {"engineClass": 42, "laserClass": 82, "offsetId": 1, "clickRadius": 70, "destroyExplosion": 4},
+    "94": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
     "95": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
     "96": {"engineClass": 9999, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 1, "clickRadius": 70},
     "97": {"engineClass": 9999, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 1, "clickRadius": 70},
@@ -108,64 +108,16 @@
     "102": {"engineClass": 9999, "showNameOnDead": false, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 35, "clickRadius": 70, "isSpinny": true, "canBeLocked": false},
     "103": {"engineClass": 9999, "lockOffsetY": 40, "showOnMinimap": false, "shieldOffset": 40, "allowHover": false, "laserClass": 9999, "offsetId": 35, "clickRadius": 70, "expansionOffsetY": 42, "expansionOffsetX": 0},
     "109": {"engineClass": 39, "lockOffsetY": 20, "laserClass": 80, "offsetId": 37, "clickRadius": 70},
-    "110": {"engineClass": 40, "laserClass": 81, "offsetId": 19},
-    "111": {"engineClass": 40, "laserClass": 81, "offsetId": 19},
-    "112": {"engineClass": 40, "laserClass": 81, "offsetId": 19},
-    "113": {"cbsModule": true, "engineClass": 9999, "drawInfo": false, "showOnMinimap": false, "allowHover": false, "laserClass": 9999, "offsetId": 35, "canBeLocked": false},
-    "114": { "engineClass": 9999, "laserClass": 9999, "offsetId": 13, "clickRadius": 70},
-    "115": { "engineClass": 41, "laserClass": 82, "offsetId": 1, "clickRadius": 70},
-    "116": { "engineClass": 41, "laserClass": 82, "offsetId": 1, "clickRadius": 70},
-    "118": { "overrideId": 6, "engineClass": 9999, "laserClass": 9999, "offsetId": 34, "clickRadius": 70, "isSpinny": true, "spinTime": 1500},
-    "119": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "120": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "121": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "122": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "123": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
-    "124": {"overrideId": 9, "engineClass": 9999, "laserClass": 9999, "offsetId": 34, "clickRadius": 70},
-    "125": {"overrideId": 9, "engineClass": 9999, "laserClass": 9999, "offsetId": 34, "clickRadius": 70},
-    "126": {"engineClass": 9999, "laserClass": 38, "offsetId": 1, "clickRadius": 70},
-    "127": {"engineClass": 45, "laserClass": 84, "offsetId": 6, "clickRadius": 40,"visualExpansions": [ 21 ]},
-    "128": {"engineClass": 43,"laserClass": 82,"offsetId": 1,"clickRadius": 70,"visualExpansions": [ 21 ], "destroyExplosion": 3, "destroyShockwave": false},
-    "129": {"engineClass": 44,"laserClass": 83,"offsetId": 1,"clickRadius": 70,"visualExpansions": [ 21 ]},
-    "130": {"engineClass": 45, "laserClass": 84, "offsetId": 6, "clickRadius": 40,"visualExpansions": [ 21 ]},
-    "131": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70, "visualExpansions": [9] },
-    "132": {"engineClass": 14, "laserClass": 14, "offsetId": 14, "engineTop": false, "frostyTrail": true, "frostyTrailTime": 500,  "destroyExplosion": 3, "destroyShockwave": false,"visualExpansions": [ 21 ]},
-    "133": {"engineClass": 46,"laserClass": 82, "offsetId": 1, "engineTop": true, "destroyExplosion": 3, "destroyShockwave": false, "soulTaker": true},
-    "134": {"engineClass": 42,"laserClass": 82, "offsetId": 1, "engineTop": true, "destroyExplosion": 3, "destroyShockwave": false},
-    "135": {"engineClass": 42,"laserClass": 82, "offsetId": 1, "engineTop": true, "destroyExplosion": 3, "destroyShockwave": false},
-    "136": {"engineClass": 42,"laserClass": 82, "offsetId": 1, "engineTop": true, "destroyExplosion": 3, "destroyShockwave": false},
-    "137": {"engineClass": 12, "laserClass": 12, "offsetId": 15, "engineTop": false, "frostyTrail": true, "frostyTrailTime": 500,  "destroyExplosion": 3, "destroyShockwave": false},
-    "138": {"engineClass": 13, "laserClass": 13, "offsetId": 17, "engineTop": false, "frostyTrail": true, "frostyTrailTime": 500,  "destroyExplosion": 3, "destroyShockwave": false},
-    "139": {"engineClass": 49, "laserClass": 82, "offsetId": 1, "destroyExplosion": 5, "destroyShockwave": false, "soulTaker": true, "soulTakerSkillAfter": 13, "soulTakerColor": "#ff07ac"},
-    "146": {"scale": 375, "engineClass": 47, "laserClass": 16, "offsetId": 14, "clickRadius": 70},
-    "147": {"overrideId": 10, "scale": 200, "engineClass": 48, "laserClass": 86, "offsetId": 18},
-    "148": {"engineClass": 16,"laserClass": 16,"offsetId": 16,"clickRadius": 70,"engineTop": true,"frostyTrail": true,"frostyTrailTime": 500,"destroyExplosion": 3,"destroyShockwave": false},
-    "149": {"engineClass": 15,"laserClass": 15,"offsetId": 18,"clickRadius": 70,"engineTop": true,"frostyTrail": true,"frostyTrailTime": 500,"destroyExplosion": 3,"destroyShockwave": false},
-    "150": { "visualExpansions": [22], "overrideId": 6, "shipExpansionAlpha": true, "engineClass": 9999, "laserClass": 9999, "offsetId": 32, "isBeacon": true, "useDot": "beaconPassive" },
-    "151": { "engineClass": 15, "laserClass": 15, "offsetId": 18, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "152": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "153": { "engineClass": 12, "laserClass": 12, "offsetId": 15, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "154": { "engineClass": 13, "laserClass": 13, "offsetId": 17, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "155": { "engineClass": "goldSpectrum", "laserClass": "goldSpectrum", "offsetId": 14, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "156": { "engineClass": 16, "laserClass": 16, "offsetId": 16, "engineTop": true, "visualExpansions": [23], "engineType": 3 },
-    "157": { "overrideId": 11, "engineClass": 9999, "laserClass": 9999, "offsetId": 13 },
-    "158": { "engineClass": 38, "laserClass": 43, "offsetId": 1, "engineType": 3 },
-    "160": { "engineClass": 10, "laserClass": 17, "offsetId": 19, "visualExpansions": [23], "engineType": 3 },
-    "161": { "drawInfo": false, "engineClass": 9999, "overrideId": 9999, "laserClass": 9999, "offsetId": 1, "allowHover": false, "canBeLocked": false, "showOnMinimap": false, "isSpinny": true },
-    "162": { "overrideId": 9, "engineClass": 9999, "laserClass": 9999, "offsetId": 131 },
-    "163": { "engineClass": "PhoenixChamp", "laserClass": "PhoenixChamp", "offsetId": 33 },
-    "164": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "engineTop": false, "midasTouch": true, "midasTouchColor": [244, 189, 183], "midasTouchExplosion": 3, "midasAbsorbHue": 60, "destroyExplosion": false, "midasBehaviorNpcExplode": true },
-    "173": {"engineClass": 42, "laserClass": 82, "offsetId": 1, "clickRadius": 70},
-    "174": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70, "visualExpansions": [9] }
-  },  
+	"110": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
+    "111": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
+    "112": {"engineClass": 2, "laserClass": 2, "offsetId": 29}
+  },
   "offsets": {
     "EXPANSION_OFFSETS": {
-      "12": {"x": 25, "y": -17},
-      "130": { "nickY": 60 },
-      "131": { "nickY": 500 }
+      "12": {"x": 25, "y": -17}
     },
     "SHIP_OFFSETS": {
-      "1": {"nickY": 35 },
+      "1": { "nickY": 45 },
       "2": { "nickY": 35 },
       "3": { "nickY": 35 },
       "4": { "nickY": 50 },
@@ -230,8 +182,7 @@
       "11": {"yShock": 60, "xShock": 10, "xMargin": -10, "yMargin": -10},
       "12": {"yShock": 60, "xShock": 10, "xMargin": -10, "yMargin": -10},
       "13": {"yShock": 30, "xShock": 10, "xMargin": -10, "yMargin": -10},
-      "14": {"yShock": 5, "xShock": -7, "xMargin": -10, "yMargin": -10},
-      "16": { "yShock": 0, "xShock": 0, "xMargin": 0, "yMargin": 0 }
+      "14": {"yShock": 5, "xShock": -7, "xMargin": -10, "yMargin": -10}
     },
     "STATION_OFFSETS": {
       "Mmo": { "x": 851.5, "y": 979 },
@@ -319,12 +270,7 @@
       "firework": {
         "1": {"x": 125, "y": 125},
         "2": {"x": 125, "y": 125},
-        "3": {"x": 125, "y": 125},
-        "4": {"x": 125, "y": 125},
-        "5": {"x": 125, "y": 125}
-      },
-      "snow": {
-        "1": {"x": 480, "y": 270}
+        "3": {"x": 125, "y": 125}
       },
       "SmartBomb": {"x": 160, "y": 160}
     },
@@ -350,26 +296,16 @@
     }
   },
   "expansionConfig": {
-    "selfAnimating": [18,19, 21, 23],
+    "selfAnimating": [18,19],
     "animationTime": {
         "18": 5000,
-        "19": 3000,
-        "21": 1750,
-        "23": 3000
-    },
-    "belowShip": [23]
+        "19": 3000
+    }
   },
   "animationTimes": {
-    "SMOKES": {
-      "1": 500,
-      "trail": 2000
-      },
     "EXPLOSIONS": {
       "explosion": {
-        "0": 1500,
-        "3": 1500,
-        "4": 700,
-        "5": 850
+        "0": 1200
       },
       "disrupt": {
         "0": 500
@@ -379,19 +315,10 @@
         "1": 1000,
         "2": 1000
       },
-      "snow": {
-        "1": 3000
-      },
-      "midas": {
-        "1": 1500,
-        "2": 1500,
-        "3": 1500,
-        "4": 2000
-      },
       "rocket": {
         "0": 1000
       },
-      "smartBomb": 3000,
+      "smartBomb": 3500,
       "mine": {
         "0": 500,
         "2": 500,
@@ -401,26 +328,15 @@
       "firework": {
         "1": 3500,
         "2": 3500,
-        "3": 3500,
-        "4": 4000,
-        "5": 4000
-      },
-      "hyperspace": {
-        "1": 2000,
-        "2": 500,
-        "3": 500,
-        "4": 1000
-      },
-      "shipEffect": {
-        "trail": 2000
+        "3": 3500
       }
     },
     "SHIELDS": {
-      "advancedShield": 1500,
+      "advancedShield": 1200,
       "instaShield": 3000,
       "emp": 1500,
       "flash": 500,
-      "leech": 1500,
+      "leech": 1100,
       "barrier": 500,
       "shieldRecharge": 1500,
       "Fortress": 2000,
@@ -429,8 +345,6 @@
       "Singularity": 1500,
       "WeakShield": 1120,
       "RapidFire": 2000,
-      "ParticleCharge": 2500,
-      "ParticleChargeElegant": 2500,
       "EmergencyRepair": 1700,
       "Turbo": 1000,
       "invincibility": 1500
@@ -449,8 +363,7 @@
     "FIREWORKS": {
       "1": 2500,
       "2": 2500,
-      "3": 2500,
-      "4": 4000
+      "3": 2500
     },
     "LENS_FLARES": {
       "0": 500,
@@ -469,36 +382,21 @@
       "8": 1500,
       "9": 1500,
       "10": 1500,
-      "11": 1200,
-      "13": 1040,
+	  "11": 1200,
+	  "13": 40,
       "14": 40,
-      "15": 1040,
-      "16": 1040,
-      "17": 40,
-      "18": 1200,
-      "19": 1200,
-      "21": 1200,
-      "22": 2000,
-      "23": 2000,
-      "24": 1500,
-      "25": 1500
+      "15": 40,
+      "16": 40,
+      "17": 40
     },
     "BEAMS": {
       "0": 500
-    },
-    "REPAIR_BEAMS": {
-      "0": 1000,
-      "1": 1000,
-      "2": 1000
     }
   },
   "sounds": {
     "EXPLOSIONS": {
       "explosion": {
-        "0": {"type": "explosions", "name": "explosion0"},
-        "3": { "type": "explosions", "name": "explosion4" },
-        "4": { "type": "explosions", "name": "explosion4" },
-        "5": { "type": "explosions", "name": "explosion4" }
+        "0": {"type": "explosions", "name": "explosion0"}
       },
       "disrupt": {
         "0": {"type": "explosions", "name": "rocketExplosion0"}
@@ -559,7 +457,6 @@
       "19": [["LeftRearInner","RightRearInner"],["CenterRear"],["LeftFrontOuter","RightFrontOuter"],["LeftRearInner","RightRearInner","CenterRear"]],
       "20": [["CenterFront"]],
       "9999": [["Center"]],
-      "goldSpectrum": [["RightFront", "LeftFront", "CenterRear"], ["RightRear", "LeftRear"], ["CenterFront"]],
       "21": [["LeftFrontInner","RightFrontInner"],["LeftFrontOuter","RightFrontOuter"]],
       "22": [["LeftRearInner","RightRearInner"],["LeftRearOuter","RightRearOuter"],["LeftFrontInner","RightFrontInner"]],
       "23": [["LeftRearInner","RightRearInner"],["LeftFrontInner","RightFrontInner"],["LeftRearOuter","RightRearOuter"]],
@@ -587,24 +484,7 @@
         ["CenterRear"],
         ["LeftFront", "RightFront"],
         ["CenterFront"]
-      ],
-      "81": [["LeftFrontOuter","RightFrontOuter"],["CenterRear"],["LeftRearInner","RightRearInner"],["Standard"],["LeftRearOuter","RightRearOuter"]],
-      "82": [
-        ["LeftRearIn", "RightRearIn"],
-        ["LeftFrontIn", "RightFrontIn", "CenterRear"],
-        ["LeftFrontOut", "RightFrontOut"],
-        ["LeftRearOut", "RightRearOut", "CenterFront"]
-      ],
-      "83": [["LeftRear","RightRear"],["CenterRear"],["LeftFront","RightFront"],["CenterFront"]],
-      "84": [
-        ["Left", "Right"],
-        ["CenterRear"],
-        ["Left", "Right"],
-        ["CenterFront"]
-      ],
-      "85": [["c", "l", "r"], ["c", "li", "ri"], ["c", "lo", "ro"], ["c", "l", "r", "li", "ri"]],
-      "86": [["center"], ["left","right"], ["center", "centerTop"], ["left", "right", "center", "centerTop"]],
-      "PhoenixChamp": [["Left", "Right"], ["CenterRear"], ["Left", "Right"], ["CenterFront"]]
+      ]
     }
   },
   "gameMsg": {
@@ -644,26 +524,25 @@
     "COLOR_GROUP": "#FFD700",
     "COLOR_ALLY_FACTION": "#0099ff",
     "COLOR_HAVOC": "#FF0000",
-    "COLOR_HAUNTVOC": "#DAA520",
-    "COLOR_HERCULES": "#328fcc",
-    "COLOR_CREDVOC": "#db63e2"
+    "COLOR_HERCULES": "#328fcc"
   },
-"defaults": {
+  "defaults": {
     "BOT_RADIUS": 50,
     "RLAUNCHER_RADIUS": 500,
     "BARRIER_RADIUS": 10,
     "NICK_Y": 120,
+    "SHIP_INFO_BORDER": 3,
     "LOCKON_RING": 15,
     "DRONE_DISTANCE": 100,
     "DRONE_SIMPLE_Y": -5,
     "DRONE_SIMPLE_MARGIN_X": 3,
     "DRONE_SIMPLE_FONT": "12px sans-serif",
     "SKILL_VISUAL_FONT": "bold 10px CorpFontRegular",
-    "USERNAME_FONT": "600 17px CorpFontRegular",
+    "USERNAME_FONT": "550 17px CorpFontRegular",
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
-    "SHIP_INFO_BORDER": 3
+	"SHIP_INFO_BORDER": 4
   },
   "titleColors": {
     "default": "#fefe00",
@@ -767,12 +646,6 @@
       "sprite_idle": 1,
       "jump_animation": 0,
       "useActive": false
-    },
-    "16": {
-      "name": "portal_birthday",
-      "sprite_active": 1,
-      "sprite_idle": 1,
-      "jump_animation": 3
     }
   },
   "SETTINGS_ENUM": {
@@ -782,24 +655,7 @@
     "SOUND": 3,
     "KEYBOARD": 4,
     "GAMEPAD": 5,
-    "SNOWY_OVERLAY": 7,
     "18PLUSFILTER": 10,
-    "NAMES_BORDER": 11,
-    "PRO_AUTO_TOGGLE": 12,
-    "PRO_IGNORE_KEYS": 13,
-    "CHAT_TRANSLATION": 13,
-    "LASER_SPEED": 14,
-    "PRO_MODE": 13,
-    "AB_COLORFUL": 14,
-    "LASER_VOL": 4,
-    "ROCKET_VOL": 5,
-    "EFFECT_VOL": 6,
-    "EXPLOSION_VOL": 7,
-    "PORTAL_VOL": 8,
-    "ROBOT_VOL": 9,
-    "SHIELD_VOL": 10,
-    "MISC_VOL": 11,
-    "UI_VOL": 12,
     "BG": 0,
     "OBJECTS": 1,
     "NEBULAS": 2,
@@ -830,7 +686,7 @@
     "GM_ST": 1,
     "GM_SOUNDS_VOL": 2,
     "GM_ST_VOL": 3,
-    "BARRIER_Q": 11,
+	"NAMES_BORDER": 11,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,
@@ -867,20 +723,12 @@
       "PAL_GUARD": 32,
       "PAL_P_REPAIR": 33,
       "PAL_SACRIFICAL": 34,
-      "PAL_RAMPAGE": 35,
+	  "PAL_RAMPAGE": 35,
       "TECH_PRECISION": 36,
       "TECH_ROBOT": 37,
       "TECH_BSHD": 38,
       "TECH_LEECH": 39,
-      "TRIGGER_CLOAK": 40,
-      "LASER_ATTACK": 41,
-      "PRO_TOGGLE": 42,
-      "QC_CHAT": 43,
-      "QC_MSG_1": 44,
-      "QC_MSG_2": 45,
-      "QC_MSG_3": 46,
-      "QC_MSG_4": 47,
-      "GROUP_PING_SHORTCUT": 48
+	  "TRIGGER_CLOAK": 40
     },
     "GAMEPADBINDS": {
       "AB_1": 0,
@@ -945,12 +793,9 @@
     "shopShowDetail": true,
     "shopSectionsGraphics": [],
     "useEqSimple": false,
-    "repairBeamsOn": true,
     "eqShowDetailGif": true,
     "robotAnimatedArms": true,
     "scaleInfoIcons": false,
-    "showShieldBarrier": true,
-    "designsEnabled": true,
-    "avatarEnabled": true
+    "showShieldBarrier": true
   }
 }

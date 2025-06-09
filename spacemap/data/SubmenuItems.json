@@ -118,15 +118,6 @@
       "hasAmount": true,
       "maxBar": 100,
       "popover": {"txtKey": "dcr-250_tooltip", "keys": "AMOUNT"}
-    },
-    {
-      "name": "ght1",
-      "id": 8,
-      "hasBar": true,
-      "isSelectable": true,
-      "hasAmount": true,
-      "maxBar": 100,
-      "popover": {"txtKey": "ght1_tooltip", "keys": "AMOUNT"}
     }
   ],
   "2": [
@@ -277,26 +268,6 @@
       "maxBar": 100,
       "cdDeselect": true,
       "popover": {"txtKey": "fwx-rz_tooltip", "keys": "AMOUNT"}
-    },
-    {
-      "name": "fwx-hw",
-      "id": 6,
-      "hasBar": true,
-      "isSelectable": true,
-      "hasAmount": true,
-      "maxBar": 100,
-      "cdDeselect": true,
-      "popover": {"txtKey": "fwx-hw_tooltip", "keys": "AMOUNT"}
-    },
-    {
-      "name": "fwx-wtch",
-      "id": 7,
-      "hasBar": true,
-      "isSelectable": true,
-      "hasAmount": true,
-      "maxBar": 100,
-      "cdDeselect": true,
-      "popover": {"txtKey": "fwx-wtch_tooltip", "keys": "AMOUNT"}
     }
   ],
   "4": [
@@ -420,16 +391,6 @@
       "maxBar": 50,
       "toggleable": true,
       "popover": {"txtKey": "t4rgt-cpu_tooltip"}
-    },
-    {
-      "name": "jackpot-cpu",
-      "id": 8,
-      "hasBar": true,
-      "isSelectable": false,
-      "hasAmount": true,
-      "maxBar": 1,
-      "toggleable": true,
-      "popover": {"txtKey": "jackpot-cpu_tooltip"}
     }
   ],
   "6": [],
@@ -658,15 +619,6 @@
       "hasAmount": false,
       "requireAmmo": false,
       "popover": {"txtKey": "barrier-formation_tooltip"}
-    },
-	{
-      "name": "f-13-bt",
-      "id": 13,
-      "hasBar": false,
-      "isSelectable": true,
-      "hasAmount": false,
-      "requireAmmo": false,
-      "popover": {"txtKey": "bat-formation_tooltip"}
     },
     {
       "name": "f-3d-dm",
