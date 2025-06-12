@@ -391,6 +391,11 @@
     },
     "BEAMS": {
       "0": 500
+    },
+	"REPAIR_BEAMS": {
+      "0": 1000,
+      "1": 1000,
+      "2": 1000
     }
   },
   "sounds": {
@@ -793,6 +798,7 @@
     "shopShowDetail": true,
     "shopSectionsGraphics": [],
     "useEqSimple": false,
+	"repairBeamsOn": true,
     "eqShowDetailGif": true,
     "robotAnimatedArms": true,
     "scaleInfoIcons": false,
