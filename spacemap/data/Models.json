@@ -815,11 +815,6 @@
   "pings": {
       "std": ["ui/ping", 0,0]
   },
-   "repairBeam": {
-        "0": ["effects/robotRepairBeam", 44, 1, true],
-        "1": ["effects/robotRepairBeamAdvanced", 44, 1, true],
-        "2": ["effects/robotRepairBeamBattle", 44, 1, true]
-    },
     "fields": {
 
   }
