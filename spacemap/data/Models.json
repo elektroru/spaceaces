@@ -809,6 +809,11 @@
   "beams": {
       "0": ["effects/beam", 15, 1, true]
   },
+   "repairBeam": {
+        "0": ["effects/robotRepairBeam", 44, 1, true],
+        "1": ["effects/robotRepairBeamAdvanced", 44, 1, true],
+        "2": ["effects/robotRepairBeamBattle", 44, 1, true]
+    },
   "collection": {
       "0": ["ui/collection", 0, 0]
   },
