@@ -391,11 +391,6 @@
     },
     "BEAMS": {
       "0": 500
-    },
-	"REPAIR_BEAMS": {
-      "0": 1000,
-      "1": 1000,
-      "2": 1000
     }
   },
   "sounds": {
@@ -802,6 +797,5 @@
     "robotAnimatedArms": true,
     "scaleInfoIcons": false,
     "showShieldBarrier": true,
-	"repairBeamsOn": true,
   }
 }
