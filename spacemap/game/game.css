@@ -1368,6 +1368,7 @@
   .assembly,
   .report,
   .pal,
+  .trade,
   .help {
     top: 0;
     left: 0;
@@ -1567,6 +1568,7 @@
   .commchannel,
   .clanstation,
   .pal,
+  .trade,
   .help {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
@@ -7694,6 +7696,10 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+  }
+  
+  .trade span {
+	  margin: 0;
   }
   
   /*animations*/
