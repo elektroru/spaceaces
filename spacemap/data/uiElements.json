@@ -1402,6 +1402,7 @@
                 "nav": [
                     {"id": 1, "label": "info", "memberOnly": true},
                     {"id": 2, "label": "members", "memberOnly": true},
+					{"id": 10, "label": "actions", "memberOnly": true},
                     {"id": 3, "label": "balance", "memberOnly": true},
                     {"id": 4, "label": "diplomacy", "memberOnly": true},
                     {"id": 8, "label": "upgrades", "memberOnly": true},
