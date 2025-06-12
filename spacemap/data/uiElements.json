@@ -189,16 +189,6 @@
                     }
                 },
                 {
-                    "name": "CARGO",
-                    "isBar": true,
-                    "color": "yellow",
-                    "icon": "iconCargo",
-                    "popover": {
-                        "txtKey": "cargo-ui",
-                        "keys": "CARGO"
-                    }
-                },
-                {
                     "name": "SPEED",
                     "isBar": false,
                     "color": "white",
@@ -207,8 +197,20 @@
                         "txtKey": "speed-ui",
                         "keys": "SPEED"
                     }
+                },
+		        {
+                    "name": "CARGO",
+                    "isBar": true,
+                    "colorLight": "#d3f2d1",
+                    "colorDark": "#d3be65",
+                    "color": "yellow",
+                    "icon": "iconCargo",
+                    "popover": {
+                    "txtKey": "cargo-ui",
+                    "keys": "CARGO"
+                    }
                 }
-            ]
+            ]  
         },
         {
             "id": 3,

@@ -333,7 +333,8 @@
       "109": ["ships/lspacefire", 32, 0, false, true, true],
 	  "110": ["ships/vreferee", 32, 0, true, true, true],
       "111": ["ships/vkick", 32, 0, true, true, true],
-      "112": ["ships/vgoal", 32, 0, true, true, true]
+      "112": ["ships/vgoal", 32, 0, true, true, true],
+	  "113": ["ships/billboard", 0, 0, false, true, true]
   },
   "minimap": {
       "dots": {
@@ -809,7 +810,7 @@
   "beams": {
       "0": ["effects/beam", 15, 1, true]
   },
-   "repairBeam": {
+  "repairBeam": {
         "0": ["effects/robotRepairBeam", 44, 1, true],
         "1": ["effects/robotRepairBeamAdvanced", 44, 1, true],
         "2": ["effects/robotRepairBeamBattle", 44, 1, true]
