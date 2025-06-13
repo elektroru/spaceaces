@@ -334,7 +334,6 @@
 	  "110": ["ships/vreferee", 32, 0, true, true, true],
       "111": ["ships/vkick", 32, 0, true, true, true],
       "112": ["ships/vgoal", 32, 0, true, true, true],
-	  "113": ["ships/billboard", 0, 0, false, true, true],
 	  "118": ["ships/generalUfo", 0, 0, true, false, true]
   },
   "minimap": {
