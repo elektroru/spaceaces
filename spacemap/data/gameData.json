@@ -110,7 +110,8 @@
     "109": {"engineClass": 39, "lockOffsetY": 20, "laserClass": 80, "offsetId": 37, "clickRadius": 70},
 	"110": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
     "111": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
-    "112": {"engineClass": 2, "laserClass": 2, "offsetId": 29}
+    "112": {"engineClass": 2, "laserClass": 2, "offsetId": 29},
+	"118": { "overrideId": 6, "engineClass": 9999, "laserClass": 9999, "offsetId": 34, "clickRadius": 70, "isSpinny": true, "spinTime": 1500}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {
