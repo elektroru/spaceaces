@@ -1539,7 +1539,7 @@
     border-color: #287490;
   }
   
-.window-main {
+  .window-main {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     display: flex;
