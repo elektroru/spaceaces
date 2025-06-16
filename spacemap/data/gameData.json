@@ -740,7 +740,8 @@
       "TECH_ROBOT": 37,
       "TECH_BSHD": 38,
       "TECH_LEECH": 39,
-	  "TRIGGER_CLOAK": 40
+	  "TRIGGER_CLOAK": 40,
+	  "LASER_ATTACK": 41
     },
     "GAMEPADBINDS": {
       "AB_1": 0,

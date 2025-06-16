@@ -544,6 +544,10 @@
 				{
                     "name": "trigger_cloak",
                     "isKeyInput": true
+                },
+				{
+                    "name": "laser_attack",
+                    "isKeyInput": true
                 }],
                 [{
                     "name": "action_button_1",
