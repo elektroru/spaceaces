@@ -1681,6 +1681,18 @@
                 "useDefPosition": true
             },
             "content": {}
+        },
+		{
+            "id": 15,
+            "position": 26,
+            "name": "worldboss",
+            "icon": "worldBoss",
+            "label": "worldboss_label",
+            "isOpen": true,
+            "hasComponent": true,
+            "dynamic": true,
+            "controller": {"useDefPosition": false},
+            "content": {}
         }
     ]
 }
