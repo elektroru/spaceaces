@@ -827,7 +827,7 @@
         "0": ["ui/ping/0", 0, 0, false, true, true, true],
         "1": ["ui/ping/1", 0, 0, false, true, true, true]
     },
-    "fields": {
-
-  }
+     "fields": {
+        "0": ["fields/0", 0,0,false, true, true, true]
+    }
 }
