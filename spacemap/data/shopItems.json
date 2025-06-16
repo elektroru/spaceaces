@@ -40,7 +40,12 @@
         "81": {"name": "G-Saturn", "icon": "saturn", "desc": "saturn_shop_desc"},
         "106": {"name": "N-Starhawk", "icon": "nenvoy", "desc": "nstarhawk_shop_desc"},
         "107": {"name": "G-Tech", "icon": "gtech", "desc": "gtech_shop_desc"},
-        "109": {"name": "Tartarus", "icon": "lspacefire", "desc": "lspacefire_shop_desc"}
+        "109": {"name": "Tartarus", "icon": "lspacefire", "desc": "lspacefire_shop_desc"},
+		"119": {"name": "G-Czech", "icon": "gzech", "desc": "gzech_shop_desc"},
+        "120": {"name": "G-Poland", "icon": "gpoland", "desc": "gpoland_shop_desc"},
+        "121": {"name": "G-England", "icon": "gengland", "desc": "gengland_shop_desc"},
+        "122": {"name": "G-France", "icon": "gfrance", "desc": "gfrance_shop_desc"},
+        "123": {"name": "G-Belgium", "icon": "gbelgium", "desc": "gbelgium_shop_desc"}
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},

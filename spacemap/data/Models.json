@@ -334,7 +334,12 @@
 	  "110": ["ships/vreferee", 32, 0, true, true, true],
       "111": ["ships/vkick", 32, 0, true, true, true],
       "112": ["ships/vgoal", 32, 0, true, true, true],
-	  "118": ["ships/generalUfo", 0, 0, true, false, true]
+	  "118": ["ships/generalUfo", 0, 0, true, false, true],
+	  "119":{"path":"ships/gczech","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "120":{"path":"ships/gpl","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "121":{"path":"ships/gen","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "122":{"path":"ships/gfrance","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "123":{"path":"ships/gbelgium","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
