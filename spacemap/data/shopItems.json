@@ -144,5 +144,9 @@
         "16": {"name": "CD-B02","icon": "cd-b02", "desc": "cd-b02_shop_desc"},
         "17": {"name": "BOX-B01","icon": "box-b01", "desc": "box-b01_shop_desc"},
         "18": {"name": "QUEST-B01","icon": "quest-b01", "desc": "quest-b01_shop_desc"}
+    },
+	 "13": {
+        "1": {"name": "Premium account","icon": "premium", "desc": "premium_shop_desc"},
+        "2": {"name": "Uritaium","icon": "uri", "desc": "uritaium_shop_desc"}
     }
 }
