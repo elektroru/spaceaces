@@ -1749,371 +1749,349 @@
 },
   "354": {
     "name": "Mayhem",
-    "bg": 30,
-    "scale": 2,
+    "scale": 1,
     "portals": [],
-    "lensflares": [],
+    "lensflares": [
+      {
+        "x": "1050",
+        "y": "650",
+        "z": "10",
+        "id": "2",
+        "mScale": 5
+      }
+    ],
     "planets": [],
     "nebulas": [],
-    "stations": [
-        {
-            "x": 2000,
-            "y": 13000,
-            "z": 1,
-            "rotation": 0,
-            "type": "Low",
-            "id": 2,
-            "hasEngine": false
-        },
-        {
-            "x": 40000,
-            "y": 13000,
-            "z": 1,
-            "rotation": 0,
-            "type": "Low",
-            "id": 1,
-            "hasEngine": false
-        }
-    ],
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "stations": [{
+      "x": 2000,
+      "y": 12000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Low",
+      "id": 2,
+      "hasEngine": false
+    }],
     "barriers": [
-        {
-            "rectangle": true,
-            "xStart": 3000,
-            "xEnd": 5000,
-            "yStart": -10000,
-            "yEnd": 36000,
-            "height": 46000,
-            "width": 2000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 37000,
-            "xEnd": 39000,
-            "yStart": -10000,
-            "yEnd": 36000,
-            "height": 46000,
-            "width": 2000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 5500,
-            "xEnd": 6000,
-            "yStart": -10000,
-            "yEnd": 36000,
-            "height": 46000,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 36000,
-            "xEnd": 36500,
-            "yStart": -10000,
-            "yEnd": 36000,
-            "height": 46000,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 6000,
-            "xEnd": 36000,
-            "yStart": 6500,
-            "yEnd": 7000,
-            "height": 500,
-            "width": 30000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 6000,
-            "xEnd": 36000,
-            "yStart": 19000,
-            "yEnd": 19500,
-            "height": 500,
-            "width": 30000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 23500,
-            "xEnd": 24000,
-            "yStart": 13000,
-            "yEnd": 13500,
-            "height": 500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 21500,
-            "xEnd": 22000,
-            "yStart": 11250,
-            "yEnd": 11750,
-            "height": 500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 21500,
-            "xEnd": 22000,
-            "yStart": 14750,
-            "yEnd": 15250,
-            "height": 500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 19500,
-            "xEnd": 20000,
-            "yStart": 13000,
-            "yEnd": 13500,
-            "height": 500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 32000,
-            "xEnd": 36000,
-            "yStart": 11300,
-            "yEnd": 12000,
-            "height": 700,
-            "width": 4000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 32000,
-            "xEnd": 36000,
-            "yStart": 14000,
-            "yEnd": 14700,
-            "height": 700,
-            "width": 4000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 6000,
-            "xEnd": 10000,
-            "yStart": 11300,
-            "yEnd": 12000,
-            "height": 700,
-            "width": 4000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 6000,
-            "xEnd": 10000,
-            "yStart": 14000,
-            "yEnd": 14700,
-            "height": 700,
-            "width": 4000,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 29750,
-            "xEnd": 30250,
-            "yStart": 12250,
-            "yEnd": 13750,
-            "height": 1500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 11750,
-            "xEnd": 12250,
-            "yStart": 12250,
-            "yEnd": 13750,
-            "height": 1500,
-            "width": 500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 27250,
-            "xEnd": 28750,
-            "yStart": 11500,
-            "yEnd": 12000,
-            "height": 500,
-            "width": 1500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 27250,
-            "xEnd": 28750,
-            "yStart": 14000,
-            "yEnd": 14500,
-            "height": 500,
-            "width": 1500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 13250,
-            "xEnd": 14750,
-            "yStart": 11500,
-            "yEnd": 12000,
-            "height": 500,
-            "width": 1500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 13250,
-            "xEnd": 14750,
-            "yStart": 14000,
-            "yEnd": 14500,
-            "height": 500,
-            "width": 1500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 13250,
-            "xEnd": 28750,
-            "yStart": 8600,
-            "yEnd": 9100,
-            "height": 500,
-            "width": 15500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 13250,
-            "xEnd": 28750,
-            "yStart": 16900,
-            "yEnd": 17400,
-            "height": 500,
-            "width": 15500,
-            "radius": 0,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 29750,
-            "xEnd": 30250,
-            "yStart": 14500,
-            "yEnd": 17400,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 45,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 29750,
-            "xEnd": 30250,
-            "yStart": 8600,
-            "yEnd": 11000,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 135,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 11750,
-            "xEnd": 12250,
-            "yStart": 14500,
-            "yEnd": 17400,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 315,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 11750,
-            "xEnd": 12250,
-            "yStart": 8600,
-            "yEnd": 11000,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 225,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 24750,
-            "xEnd": 29250,
-            "yStart": 14000,
-            "yEnd": 16900,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 45,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 24750,
-            "xEnd": 29250,
-            "yStart": 9600,
-            "yEnd": 12000,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 135,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 17750,
-            "xEnd": 18250,
-            "yStart": 14000,
-            "yEnd": 16900,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 315,
-            "id": 0
-          },
-          {
-            "rectangle": true,
-            "xStart": 17750,
-            "xEnd": 18250,
-            "yStart": 9600,
-            "yEnd": 12000,
-            "height": 2900,
-            "width": 500,
-            "radius": 0,
-            "angle": 225,
-            "id": 0
-          }
-    ]
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 1000,
+        "yStart": 11000,
+        "yEnd": 13000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 3500,
+        "yStart": 10500,
+        "yEnd": 11200,
+        "height": 700,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 3500,
+        "yStart": 13000,
+        "yEnd": 13500,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 3000,
+        "xEnd": 3500,
+        "yStart": 11000,
+        "yEnd": 13000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzRight"
+      },
+      {
+      "rectangle": true,
+      "xStart": -6000,
+      "xEnd": 27000,
+      "yStart": 3250,
+      "yEnd": 3750,
+      "height": 500,
+      "width": 33000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": -6000,
+      "xEnd": 27000,
+      "yStart": 9500,
+      "yEnd": 10000,
+      "height": 500,
+      "width": 33000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 11750,
+      "xEnd": 12000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 5625,
+      "yEnd": 5875,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 7375,
+      "yEnd": 7625,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 9750,
+      "xEnd": 10000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 14375,
+      "yStart": 4300,
+      "yEnd": 4550,
+      "height": 250,
+      "width": 7750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 14375,
+      "yStart": 8450,
+      "yEnd": 8700,
+      "height": 250,
+      "width": 7750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 7250,
+      "yEnd": 8700,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 45,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 4300,
+      "yEnd": 5500,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 135,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 7250,
+      "yEnd": 8700,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 315,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 4300,
+      "yEnd": 5500,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 225,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 12375,
+      "xEnd": 14625,
+      "yStart": 7000,
+      "yEnd": 8450,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 45,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 12375,
+      "xEnd": 14625,
+      "yStart": 4800,
+      "yEnd": 6000,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 135,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 8875,
+      "xEnd": 9125,
+      "yStart": 7000,
+      "yEnd": 8450,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 315,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 8875,
+      "xEnd": 9125,
+      "yStart": 4800,
+      "yEnd": 6000,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 225,
+      "id": 0
+    }]
   }
 }
