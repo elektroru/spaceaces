@@ -669,6 +669,7 @@
     "18PLUSFILTER": 10,
     "BG": 0,
     "OBJECTS": 1,
+	"BARRIER_Q": 11,
     "NEBULAS": 2,
     "STARS": 3,
     "EXPLOSIONS": 4,
