@@ -1793,8 +1793,8 @@
         "xStart": 500,
         "xEnd": 3500,
         "yStart": 10500,
-        "yEnd": 11200,
-        "height": 700,
+        "yEnd": 11000,
+        "height": 500,
         "width": 3000,
         "radius": 0,
         "id": 0,
@@ -1986,22 +1986,22 @@
       "id": 0
     }, {
       "rectangle": true,
-      "xStart": 6625,
-      "xEnd": 14375,
+      "xStart": 7000,
+      "xEnd": 14000,
       "yStart": 4300,
       "yEnd": 4550,
       "height": 250,
-      "width": 7750,
+      "width": 7000,
       "radius": 0,
       "id": 0
     }, {
       "rectangle": true,
-      "xStart": 6625,
-      "xEnd": 14375,
+      "xStart": 7000,
+      "xEnd": 14000,
       "yStart": 8450,
       "yEnd": 8700,
       "height": 250,
-      "width": 7750,
+      "width": 7000,
       "radius": 0,
       "id": 0
     }, {
