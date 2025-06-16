@@ -1539,37 +1539,7 @@
     border-color: #287490;
   }
   
-  .log,
-  .spacemap,
-  .shipinfo,
-  .userinfo,
-  .settings,
-  .connection,
-  .logout_window,
-  .spacemap_ov,
-  .logout,
-  .assembly,
-  .chat,
-  .admin,
-  .report,
-  .boosters,
-  .arena,
-  .pilotsheet,
-  .clan,
-  .competetive,
-  .equipment,
-  .repair,
-  .shop,
-  .refinement,
-  .galaxygate,
-  .group,
-  .quests,
-  .contacts,
-  .commchannel,
-  .clanstation,
-  .pal,
-  .trade,
-  .help {
+.window-main {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     display: flex;
