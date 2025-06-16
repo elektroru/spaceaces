@@ -371,5 +371,8 @@
         "0": "none",
         "5": "havoc",
         "6": "hercules"
+    },
+		 "palDesignDictionary": {
+        "84": "P.A.L.",
     }
 }
