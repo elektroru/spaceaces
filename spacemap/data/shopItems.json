@@ -143,7 +143,13 @@
         "15": {"name": "CD-B01","icon": "cd-b01", "desc": "cd-b01_shop_desc"},
         "16": {"name": "CD-B02","icon": "cd-b02", "desc": "cd-b02_shop_desc"},
         "17": {"name": "BOX-B01","icon": "box-b01", "desc": "box-b01_shop_desc"},
-        "18": {"name": "QUEST-B01","icon": "quest-b01", "desc": "quest-b01_shop_desc"}
+        "18": {"name": "QUEST-B01","icon": "quest-b01", "desc": "quest-b01_shop_desc"},
+		"19": {"name": "DMG-B03","icon": "dmg-b01", "desc": "dmg-b03_shop_desc"},
+        "20": {"name": "SHD-B03","icon": "shd-b01", "desc": "shd-b03_shop_desc"},
+        "21": {"name": "HP-B03","icon": "hp-b01", "desc": "hp-b01_shop_desc"},
+        "27": {"name": "DMG-B03","icon": "dmg-b01", "desc": "dmg-b03_shop_desc"},
+        "28": {"name": "SHD-B03","icon": "shd-b01", "desc": "shd-b03_shop_desc"},
+        "29": {"name": "HP-B03","icon": "hp-b01", "desc": "hp-b01_shop_desc"}
     },
 	 "13": {
         "1": {"name": "Premium account","icon": "premium", "desc": "premium_shop_desc"},

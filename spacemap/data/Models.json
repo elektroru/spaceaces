@@ -306,7 +306,6 @@
       "82": ["ships/german", 32, 0, true, true, true],
       "83": ["ships/referee", 32, 0, true, true, true],
       "84": ["ships/petPro", 32, 0, true, true, true],
-      "84": ["ships/petPro", 32, 0, true, true, true],
       "85": {
             "path": "ships/cuboranCute",
             "end": 0,
@@ -841,7 +840,8 @@
       "14": ["collectables/nickel", 1, 1, false],
       "15": ["collectables/palladium", 1, 1, false],
       "16": ["collectables/ree", 1, 1, false],
-      "17": ["collectables/selenite", 1, 1, false]
+      "17": ["collectables/selenite", 1, 1, false],
+	  "20": ["collectables/prismium", 0, 0, false]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
