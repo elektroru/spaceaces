@@ -644,7 +644,10 @@
           "1": ["sfx/firework1", 80, 1, true],
           "2": ["sfx/firework2", 80, 1, true],
           "3": ["sfx/firework3", 80, 1, true]
-      }
+      },
+	  "snow": {
+            "1": ["effects/snowPortal", 5, 0, true, "infinity"]
+        }
   },
   "shields": {
       "advancedShield": ["shields/shieldAdvanced", 33, 1],
