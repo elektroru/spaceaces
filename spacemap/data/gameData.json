@@ -818,6 +818,7 @@
     "eqShowDetailGif": true,
     "robotAnimatedArms": true,
     "scaleInfoIcons": false,
-    "showShieldBarrier": true
+    "showShieldBarrier": true,
+	"portalSnowing": false
   }
 }
