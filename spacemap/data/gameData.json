@@ -712,6 +712,7 @@
     "GM_SOUNDS_VOL": 2,
     "GM_ST_VOL": 3,
 	"NAMES_BORDER": 11,
+	"AB_COLORFUL": 14,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,

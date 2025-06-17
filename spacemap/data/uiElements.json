@@ -378,6 +378,16 @@
                     "name": "username_borders",
                     "isCheck": true,
                     "options": []
+                },
+				 {
+                    "name": "pro_ignore_keys",
+                    "isCheck": true,
+                    "options": []
+                },
+				{
+                    "name": "ab_colorful",
+                    "isCheck": true,
+                    "options": []
                 }
             ],
                 [{
