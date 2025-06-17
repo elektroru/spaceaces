@@ -1819,6 +1819,30 @@
         "id": 0,
         "name": "DmzRight"
       },
+	  {
+      "rectangle": true,
+      "xStart": 19500,
+      "xEnd": 20000,
+      "yStart": 3500,
+      "yEnd": 9750,
+      "height": 6250,
+      "width": 500,
+      "radius": 0,
+      "id": 0,
+      "name": "RightBorder"
+      },
+      {
+      "rectangle": true,
+      "xStart": 1000,
+      "xEnd": 1500,
+      "yStart": 3500,
+      "yEnd": 9750,
+      "height": 6250,
+      "width": 500,
+      "radius": 0,
+      "id": 0,
+      "name": "LeftBorder"
+      },
       {
       "rectangle": true,
       "xStart": -6000,
