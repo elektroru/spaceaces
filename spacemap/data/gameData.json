@@ -750,7 +750,12 @@
       "TECH_BSHD": 38,
       "TECH_LEECH": 39,
 	  "TRIGGER_CLOAK": 40,
-	  "LASER_ATTACK": 41
+	  "LASER_ATTACK": 41,
+	  "QC_CHAT": 43,
+      "QC_MSG_1": 44,
+      "QC_MSG_2": 45,
+      "QC_MSG_3": 46,
+      "QC_MSG_4": 47
     },
     "GAMEPADBINDS": {
       "AB_1": 0,
