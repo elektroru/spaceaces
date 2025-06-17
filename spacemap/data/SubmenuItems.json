@@ -391,6 +391,16 @@
       "maxBar": 50,
       "toggleable": true,
       "popover": {"txtKey": "t4rgt-cpu_tooltip"}
+    },
+	{
+      "name": "jackpot-cpu",
+      "id": 8,
+      "hasBar": true,
+      "isSelectable": false,
+      "hasAmount": true,
+      "maxBar": 1,
+      "toggleable": true,
+      "popover": {"txtKey": "jackpot-cpu_tooltip"}
     }
   ],
   "6": [],

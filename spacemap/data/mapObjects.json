@@ -918,6 +918,63 @@
     "nebulas": [],
     "stations": []
   },
+  "33": {
+    "name": "Jackpot Lobby",
+    "scale": 1,
+    "portals": [],
+    "planets": [{
+        "x": "1500",
+        "y": "500",
+        "z": "8",
+        "id": "38",
+        "mScale": 5
+      },
+      {
+        "x": "344",
+        "y": "1300",
+        "z": "9",
+        "id": "37",
+        "mScale": 5
+      },
+      {
+        "x": "2000",
+        "y": "260",
+        "z": "8",
+        "id": "39",
+        "mScale": 7
+      }
+    ],
+    "nebulas": [],
+    "lensflares": [],
+    "stations": [{
+      "x": 2000,
+      "y": 1250,
+      "z": 1,
+      "rotation": 0,
+      "type": "Mmo",
+      "hasEngine": true,
+      "id": 1
+    },
+    {
+      "x": 19000,
+      "y": 1000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Eic",
+      "hasEngine": true,
+      "id": 2
+    },
+	{
+      "x": 19000,
+      "y": 11000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Eic",
+      "hasEngine": true,
+      "id": 3
+    }
+    ]
+  },
   "42": {
     "theme": "midi",
     "name": "???",
