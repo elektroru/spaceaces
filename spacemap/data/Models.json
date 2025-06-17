@@ -345,7 +345,7 @@
       "91": ["ships/bronze", 32, 0, true, false, false],
       "92": ["ships/silver", 32, 0, true, false, false],
       "93": ["ships/gold", 32, 0, true, false, false],
-      "94": ["ships/ignite", 32, 0, true, false, false],
+      "94": {"path":"ships/gspace","end":0,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "95": ["ships/redg", 32, 0, true, true, true],
       "96": ["ships/moduleXp", 0, 0, false, true, true],
       "97": ["ships/moduleHp", 0, 0, false, true, true],
@@ -365,14 +365,15 @@
       "111": ["ships/vkick", 32, 0, true, true, true],
       "112": ["ships/vgoal", 32, 0, true, true, true],
 	  "118": ["ships/generalUfo", 0, 0, true, false, true],
-	  "119":{"path":"ships/gczech","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "120":{"path":"ships/gpl","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "121":{"path":"ships/gen","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "122":{"path":"ships/gfrance","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "123":{"path":"ships/gbelgium","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "124":{"path":"ships/superIceAsteroid","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "125":{"path":"ships/emperorCrylox","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "132":{"path":"ships/spectrumFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+	  "119": {"path":"ships/gczech","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "120": {"path":"ships/gpl","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "121": {"path":"ships/gen","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "122": {"path":"ships/gfrance","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "123": {"path":"ships/gbelgium","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "124": {"path":"ships/superIceAsteroid","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "125": {"path":"ships/emperorCrylox","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "132": {"path":"ships/spectrumFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "133": {"path":"ships/gelegance","end":32,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
