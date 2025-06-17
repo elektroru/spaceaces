@@ -371,7 +371,8 @@
       "122":{"path":"ships/gfrance","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "123":{"path":"ships/gbelgium","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "124":{"path":"ships/superIceAsteroid","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "125":{"path":"ships/emperorCrylox","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+      "125":{"path":"ships/emperorCrylox","end":0,"start":0,"isWebp":false,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "132":{"path":"ships/spectrumFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
@@ -429,7 +430,8 @@
       "engineSmoke": ["smokes/engineSmoke", 20, 0, true],
       "rocketSmokeAdvanced": ["smokes/rocketSmokeAdvanced", 20, 0, true],
       "rocketSmokeHitech": ["smokes/rocketSmokeHitech", 20, 0, true],
-      "rocketSmokeStandard": ["smokes/rocketSmokeStandard", 20, 0, true]
+      "rocketSmokeStandard": ["smokes/rocketSmokeStandard", 20, 0, true],
+	  "trail": ["smokes/trailLong", 5, 0, false]
   },
   "portals": {
       "shockwave": {

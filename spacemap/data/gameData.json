@@ -118,7 +118,8 @@
 	"122": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
 	"123": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
 	"124": {"engineClass": 9999, "laserClass": 9999, "offsetId": 32, "clickRadius": 70, "isSpinny": true},
-	"125": {"overrideId": 5, "engineClass": 9999, "laserClass": 9999, "offsetId": 31, "clickRadius": 70, "isSpinny": true, "isFady": true}
+	"125": {"overrideId": 5, "engineClass": 9999, "laserClass": 9999, "offsetId": 31, "clickRadius": 70, "isSpinny": true, "isFady": true},
+	"132": {"scale": 300, "engineClass": "spectrum", "laserClass": "spectrum", "offsetId": 14, "engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 3, "destroyShockwave": false}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {
