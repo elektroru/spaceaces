@@ -702,7 +702,16 @@
       },
       "zeus_hercules": {
           "6": ["drones/designs/hercules/zeus/6", 32, 0, true]
-      }
+      },
+	  "iris_credvoc": {
+            "6": ["drones/vandal/6", 0, 0, false]
+        },
+      "apis_credvoc": {
+            "6": ["drones/vandal/6", 0, 0, false]
+        },
+      "zeus_credvoc": {
+            "6": ["drones/vandal/6", 0, 0, false]
+        }
   },
   "engines": {
       "0": ["engines/standard", 11, 0, true],

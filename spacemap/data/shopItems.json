@@ -66,7 +66,8 @@
         "8": {"name": "F-3D-DR", "icon": "f-3d-dr", "desc": "f3ddr_shop_desc"},
         "9": {"name": "F-3D-RG", "icon": "f-3d-rg", "desc": "f3drg_shop_desc"},
         "10": {"name": "F-3D-WL", "icon": "f-3d-wl", "desc": "f3dwl_shop_desc"},
-        "11": {"name": "F-3D-VT", "icon": "f-3d-vt", "desc": "f3dvt_shop_desc"}
+        "11": {"name": "F-3D-VT", "icon": "f-3d-vt", "desc": "f3dvt_shop_desc"},
+		"14": {"name": "Vandal", "icon": "vandal", "desc": "dd_vandal"}
     },
     "4": {
         "1": {"name": "SG3N-B02", "icon": "sg3n-b02", "desc": "sg3nb02_shop_desc"},

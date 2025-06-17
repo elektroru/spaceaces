@@ -333,7 +333,8 @@
         },
         "dd": {
             "5": {"id": 5, "popoverKey": "dd_havoc", "iconPath": "/drone", "name": "havoc", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]},
-            "6": {"id": 6, "popoverKey": "dd_hercules", "iconPath": "/drone", "name": "hercules", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]}
+            "6": {"id": 6, "popoverKey": "dd_hercules", "iconPath": "/drone", "name": "hercules", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]},
+			"14": {"id": 14, "simple": "DD-VN", "popoverKey": "dd_vandal", "iconPath": "/drone", "name": "vandal", "type": "dd", "subtype": "bonus", "sizes": ["30", "63", "100"]}
         },
         "protocol": {
             "1": {"id": 1, "simple": "PE-SCR-01", "popoverKey": "pal_enhance1", "iconPath": "/protocol", "name": "PE-SCR-01", "type": "protocol", "subtype": "ship", "sizes": ["30", "63", "100"]},
@@ -365,11 +366,15 @@
     },
     "droneDesignBonuses": {
         "5": {"shd": 0, "dmg": 10},
-        "6": {"shd": 15, "dmg": 0}
+        "6": {"shd": 15, "dmg": 0},
+        "7": {"shd": 0, "dmg": 0},
+        "14": {"shd": 0, "dmg": 4}
     },
     "droneDesignTypeToLoc": {
         "0": "none",
         "5": "havoc",
-        "6": "hercules"
+        "6": "hercules",
+        "7": "hauntvoc",
+        "14": "vandal"
     }
 }
