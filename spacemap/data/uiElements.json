@@ -1743,6 +1743,25 @@
                 "useDefPosition": true
             },
             "content": {}
+        },
+		{
+            "id": 30,
+            "position": 30,
+            "name": "poll",
+            "icon": "poll",
+            "label": "poll_label",
+            "isOpen": false,
+            "hasComponent": true,
+            "size": {
+                "minW": 700,
+                "minH": 450
+            },
+            "controller": {
+                "x": 0,
+                "y": 156,
+                "useDefPosition": true
+            },
+            "content": {}
         }
     ]
 }
