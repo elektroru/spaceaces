@@ -874,5 +874,9 @@
     },
      "fields": {
         "0": ["fields/0", 0,0,false, true, true, true]
+    },
+	"qc": {
+        "bg": ["ui/qc/bg", 0, 0,false, true, true, true],
+        "bottom": ["ui/qc/bgBottom", 0, 0,false, true, true, true]
     }
 }

@@ -550,6 +550,26 @@
 				{
                     "name": "laser_attack",
                     "isKeyInput": true
+                },
+				{
+                    "name": "qc_toggle",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "qc_msg_1",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "qc_msg_2",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "qc_msg_3",
+                    "isKeyInput": true
+                },
+                {
+                    "name": "qc_msg_4",
+                    "isKeyInput": true
                 }],
                 [{
                     "name": "action_button_1",
@@ -692,26 +712,6 @@
                 {
                     "name": "activate_ab_item",
                     "isGamepadInput": true
-                },
-				{
-                    "name": "qc_toggle",
-                    "isKeyInput": true
-                },
-                {
-                    "name": "qc_msg_1",
-                    "isKeyInput": true
-                },
-                {
-                    "name": "qc_msg_2",
-                    "isKeyInput": true
-                },
-                {
-                    "name": "qc_msg_3",
-                    "isKeyInput": true
-                },
-                {
-                    "name": "qc_msg_4",
-                    "isKeyInput": true
                 }
                 ]
             ]
