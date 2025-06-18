@@ -389,7 +389,9 @@
 	  "137": {"path":"ships/solaceFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "138": {"path":"ships/dimiFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "146": {"path":"ships/venomred","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "147": {"path":"ships/leolove","end": 0,"start": 0,"isWebp": false,"preload": true,"unload": true,"isSingleFile": false,"customExtension": null,"useAtlas": false}
+	  "147": {"path":"ships/leolove","end": 0,"start": 0,"isWebp": false,"preload": true,"unload": true,"isSingleFile": false,"customExtension": null,"useAtlas": false},
+	  "148": {"path":"ships/venomFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "149": {"path":"ships/sentinelFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
