@@ -1,203 +1,26 @@
 {
-    "shipIdToType": {
-        "6": 0,
-        "1": 1,
-        "2": 1,
-        "3": 2,
-        "4": 2,
-        "5": 11,
-        "7": 3,
-        "8": 4,
-        "9": 5,
-        "10": 6,
-        "11": 7,
-        "12": 8,
-        "106": 17,
-        "13": 9,
-        "14": 10,
-        "15": 2,
-        "16": 2,
-        "17": 1,
-        "18": 1,
-        "109": 18,
-        "19": 20,
-        "20": 20,
-        "21": 20,
-        "22": 14,
-        "23": 13,
-        "24": 13,
-        "25": 13,
-        "26": 13,
-        "27": 13,
-        "28": 14,
-        "107": 14,
-        "29": 15,
-        "30": 2,
-        "31": 14,
-        "78": 14,
-        "79": 14,
-        "80": 14,
-        "81": 20,
-        "82": 14,
-        "83": 12,
-        "91": 1,
-        "92": 1,
-        "93": 1,
-        "94": 1,
-        "95": 14,
-		"110": 19,
-        "111": 19,
-        "112": 19,
-		"119": 20,
-        "120": 20,
-        "121": 20,
-        "122": 20,
-        "123": 20
-    },
-    "shipTypeSlots": {
-        "0": {
-            "laser": 1,
-            "rLauncher": 1,
-            "generator": 1,
-            "extra": 0
-        },
-        "1": {
-            "laser": 15,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 1,
-            "module": 0,
-            "structureModule": 1
-        },
-        "15": {
-            "laser": 13,
-            "rLauncher": 1,
-            "generator": 12,
-            "extra": 1,
-            "module": 1,
-            "structureModule": 1
-        },
-        "14": {
-            "laser": 15,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 1,
-            "module": 2,
-            "structureModule": 1
-        },
-        "13": {
-            "laser": 15,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 1,
-            "module": 1,
-            "structureModule": 1
-        },
-        "12": {
-            "laser": 35,
-            "rLauncher": 1,
-            "generator": 35,
-            "extra": 5,
-            "module": 4,
-            "structureModule": 1
-        },
-        "10": {
-            "laser": 15,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 0
-        },
-        "2": {
-            "laser": 13,
-            "rLauncher": 1,
-            "generator": 12,
-            "extra": 1,
-            "module": 0,
-            "structureModule": 1
-        },
-        "11": {
-            "laser": 16,
-            "rLauncher": 1,
-            "generator": 10,
-            "extra": 0
-        },
-        "3": {
-            "laser": 2,
-            "rLauncher": 1,
-            "generator": 2,
-            "extra": 0
-        },
-        "4": {
-            "laser": 7,
-            "rLauncher": 1,
-            "generator": 10,
-            "extra": 1,
-            "module": 2,
-            "structureModule": 2
-        },
-        "5": {
-            "laser": 7,
-            "rLauncher": 1,
-            "generator": 8,
-            "extra": 0
-        },
-        "6": {
-            "laser": 5,
-            "rLauncher": 1,
-            "generator": 5,
-            "extra": 0
-        },
-        "7": {
-            "laser": 7,
-            "rLauncher": 1,
-            "generator": 6,
-            "extra": 0
-        },
-        "8": {
-            "laser": 7,
-            "rLauncher": 1,
-            "generator": 8,
-            "extra": 0
-        },
-        "17": {
-            "laser": 1,
-            "rLauncher": 1,
-            "generator": 8,
-            "extra": 0,
-            "module": 2,
-            "structureModule": 1
-        },
-        "9": {
-            "laser": 7,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 0,
-            "structureModule": 1
-        },
-        "18": {
-            "laser": 0,
-            "rLauncher": 5,
-            "generator": 8,
-            "extra": 1,
-            "module": 3,
-            "structureModule": 1
-        },
-		 "19": {
-            "laser": 13,
-            "rLauncher": 1,
-            "generator": 12,
-            "extra": 1,
-            "module": 3,
-            "structureModule": 1
-        },
-		"20": {
-            "laser": 15,
-            "rLauncher": 1,
-            "generator": 15,
-            "extra": 1,
-            "module": 3,
-            "structureModule": 1
-        }
+    "shipTypeToSearchClass": {
+        "0": "Phoenix",
+        "1": "Goliath",
+        "2": "Vengeance",
+        "3": "Yamato",
+        "4": "Defcom",
+        "5": "Leonov",
+        "6": "Liberator",
+        "7": "Piranha",
+        "8": "Nostromo",
+        "9": "Gerroid",
+        "10": "Goliath",
+        "11": "Vengeance",
+        "12": "Admin",
+        "13": "Goliath",
+        "14": "Goliath",
+        "15": "Vengeance",
+        "17": "Nostromo",
+        "18": "Leonov",
+        "19": "Vengeance",
+        "20": "Goliath",
+        "21": "Vengeance"
     },
     "palSlots": {
         "0": {
