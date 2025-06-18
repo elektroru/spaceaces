@@ -119,10 +119,12 @@
 	"123": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
 	"124": {"engineClass": 9999, "laserClass": 9999, "offsetId": 32, "clickRadius": 70, "isSpinny": true},
 	"125": {"overrideId": 5, "engineClass": 9999, "laserClass": 9999, "offsetId": 31, "clickRadius": 70, "isSpinny": true, "isFady": true},
-	"132": {"scale": 300, "engineClass": "spectrum", "laserClass": "spectrum", "offsetId": 14, "engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 3, "destroyShockwave": false},
+	"132": {"scale": 300, "engineClass": "spectrum", "laserClass": "spectrum", "offsetId": 14, "engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "destroyShockwave": false},
 	"134": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
 	"135": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
-	"136": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70}
+	"136": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
+	"137": {"scale": 300, "engineClass": "solace", "laserClass": "solace", "offsetId": 14, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "rocketDetonation": 0, "rlDetonation": 1, "destroyShockwave": false},
+    "138": {"scale": 300, "engineClass": "diminisher", "laserClass": "diminisher", "offsetId": 14, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 3, "rocketDetonation": 0, "rlDetonation": 1, "destroyShockwave": false}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {

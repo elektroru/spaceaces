@@ -385,7 +385,9 @@
 	  "133": {"path":"ships/gelegance","end":32,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "134":{"path":"ships/gred","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "135":{"path":"ships/gorange","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "136":{"path":"ships/gblue","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+	  "136":{"path":"ships/gblue","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "137":{"path":"ships/solaceFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "138":{"path":"ships/dimiFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
