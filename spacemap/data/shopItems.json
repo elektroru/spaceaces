@@ -164,5 +164,9 @@
 	 "13": {
         "1": {"name": "Premium account","icon": "premium", "desc": "premium_shop_desc"},
         "2": {"name": "Uritaium","icon": "uri", "desc": "uritaium_shop_desc"}
+    },
+	 "14": {
+        "1": {"name": "PE-SCR-01","icon": "protocol1", "desc": "pal_enhance1"},
+        "2": {"name": "PE-SCR-02","icon": "protocol2", "desc": "pal_enhance2"}
     }
 }
