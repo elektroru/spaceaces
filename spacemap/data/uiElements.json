@@ -284,6 +284,12 @@
                     "isCheck": false,
                     "options": [{"id": 1, "label": "czech", "val": "cz"}, {"id": 2, "label": "english", "val": "en"}, {"id": 3, "label": "german", "val": "de"}, {"id": 4, "label": "turkish", "val": "tr"}, {"id": 5, "label": "russian", "val": "ru"}, {"id": 6, "label": "spanish", "val": "es"}]
                 },
+				{
+                    "name": "translate_to",
+                    "isCheck": false,
+                    "premium": true,
+                    "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "english", "val": "en-us"}, {"id": 3, "label": "turkish", "val": "tr"}, {"id":4, "label": "spanish", "val": "es"}]
+                },
                 {
                     "name": "lasers",
                     "isCheck": false,
@@ -293,6 +299,10 @@
                     "name": "laserflash",
                     "isCheck": false,
                     "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "on", "val": "on"}]
+                },
+				{
+                    "name": "group_ping",
+                    "isKeyInput": true
                 }
                 ],
                 [{
