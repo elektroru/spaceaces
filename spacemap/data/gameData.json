@@ -833,6 +833,7 @@
     "robotAnimatedArms": true,
     "scaleInfoIcons": false,
     "showShieldBarrier": true,
-	"portalSnowing": false
+	"portalSnowing": false,
+	"designsEnabled": true
   }
 }
