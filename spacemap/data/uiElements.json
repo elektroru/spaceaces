@@ -1457,8 +1457,8 @@
                     {"id": 4, "label": "diplomacy", "memberOnly": true},
                     {"id": 8, "label": "upgrades", "memberOnly": true},
                     {"id": 9, "label": "shop_help_title", "memberOnly": true},
-					{"id": 11, "label": "clan_ops", "memberOnly": true, "leaderOnly": true, "buildingTypeReq": ["hq", "clan_op_hub"]},
-                    {"id": 12, "label": "clan_building", "memberOnly": true, "leaderOnly": true},
+					{"id": 11, "label": "clan_ops", "memberOnly": true, "reqPerm": ["clanops"], "buildingTypeReq": ["hq", "clan_op_hub"]},
+                    {"id": 12, "label": "clan_building", "memberOnly": true, "reqPerm": ["clanbuildz"]},
                     {"id": 5, "label": "company", "memberOnly": false},
                     {"id": 6, "label": "join", "singleOnly": true},
                     {"id": 7, "label": "create", "singleOnly": true}
