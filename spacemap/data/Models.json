@@ -873,7 +873,8 @@
       "15": ["collectables/palladium", 1, 1, false],
       "16": ["collectables/ree", 1, 1, false],
       "17": ["collectables/selenite", 1, 1, false],
-	  "20": ["collectables/prismium", 0, 0, false]
+	  "20": ["collectables/prismium", 0, 0, false],
+	  "22": ["collectables/heartBoxAnimated", 0, 0, true]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
