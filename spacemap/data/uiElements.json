@@ -299,10 +299,6 @@
                     "name": "laserflash",
                     "isCheck": false,
                     "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "on", "val": "on"}]
-                },
-				{
-                    "name": "group_ping",
-                    "isKeyInput": true
                 }
                 ],
                 [{
@@ -589,6 +585,10 @@
                 },
                 {
                     "name": "qc_msg_4",
+                    "isKeyInput": true
+                },
+				{
+                    "name": "group_ping",
                     "isKeyInput": true
                 }],
                 [{
