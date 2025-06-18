@@ -415,6 +415,69 @@
                         "isRangeSlider": true,
                         "min": 0,
                         "max": 100
+                    },
+					{
+                        "name": "laser_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "rocket_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "effect_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "explosion_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "portal_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "robot_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "shield_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "misc_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
+                    },
+                    {
+                        "name": "ui_sounds",
+                        "isRangeSlider": true,
+                        "ownRow": true,
+                        "min": 0,
+                        "max": 100
                     }
                 ],
                 [{
