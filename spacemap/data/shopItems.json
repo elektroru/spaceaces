@@ -131,7 +131,8 @@
         "1": {"name": "CLO4k-CH","icon": "clo4k", "desc": "cloak_ch_shop_desc"},
         "2": {"name": "BK-100","icon": "bk100", "desc": "bk100_ch_shop_desc"},
         "3": {"name": "BK-101","icon": "bk101", "desc": "bk101_ch_shop_desc"},
-        "4": {"name": "BK-102","icon": "bk102", "desc": "bk102_ch_shop_desc"}
+        "4": {"name": "BK-102","icon": "bk102", "desc": "bk102_ch_shop_desc"},
+		"5": {"name": "Jackpot CPU","icon": "jpa", "desc": "jpa_ch_shop_desc"}
     },
     "11": {
         "1": {"name": "XP-B01","icon": "xp-b01", "desc": "xp-b01_shop_desc"},
