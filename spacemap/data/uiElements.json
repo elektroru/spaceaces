@@ -1388,7 +1388,7 @@
                     "skills": [
                         [
                             {"id": 0, "lvl": 0, "name": "ev_pp_01", "maxPoints": 2, "lvlData": {"1": 2, "2": 4}},
-                            {"id": 1, "lvl": 0, "name": "hp_pp_02", "requires": [{"sId": 0, "id": 0}], "maxPoints": 3, "coef": false, "lvlData": {"1": 15000, "2": 20000, "3": 25000}}
+                            {"id": 1, "useModern": true, "lvl": 0, "name": "hp_pp_02", "requires": [{"sId": 0, "id": 0}], "maxPoints": 3, "coef": false, "lvlData": {"1": 15000, "2": 20000, "3": 40000}}
                         ],
                         [
                             {"id": 2, "lvl": 0, "name": "uri_pp_01", "maxPoints": 2, "lvlData": {"1": 2, "2": 4}},
