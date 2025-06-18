@@ -124,7 +124,8 @@
 	"135": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
 	"136": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
 	"137": {"scale": 300, "engineClass": "solace", "laserClass": "solace", "offsetId": 14, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "rocketDetonation": 0, "rlDetonation": 1, "destroyShockwave": false},
-    "138": {"scale": 300, "engineClass": "diminisher", "laserClass": "diminisher", "offsetId": 14, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 3, "rocketDetonation": 0, "rlDetonation": 1, "destroyShockwave": false}
+    "138": {"scale": 300, "engineClass": "diminisher", "laserClass": "diminisher", "offsetId": 14, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 3, "rocketDetonation": 0, "rlDetonation": 1, "destroyShockwave": false},
+    "146": {"scale": 375, "engineClass": 47, "laserClass": 16, "offsetId": 14, "clickRadius": 70}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {

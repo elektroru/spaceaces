@@ -52,7 +52,8 @@
         "135": {"name": "G-Orange", "icon": "orangeg", "desc": "orangeg_shop_desc"},
         "136": {"name": "G-Blue", "icon": "blueg", "desc": "blueg_shop_desc"},
 		"137": {"name": "G-SolaceFrosty","icon": "solaceFrosty", "desc": "solaceFrosty_shop_desc"},
-		"138": {"name": "G-DiminisherFrosty","icon": "diminisherFrosty","desc": "diminisherFrosty_shop_desc"}
+		"138": {"name": "G-DiminisherFrosty","icon": "diminisherFrosty","desc": "diminisherFrosty_shop_desc"},
+		"146": {"name": "G-V0-RGB", "icon": "venomrgb", "desc": "venomrgb_shop_desc"}
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},
