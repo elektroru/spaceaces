@@ -1942,6 +1942,17 @@
                 "useDefPosition": true
             },
             "content": {}
+        },
+		{
+            "id": 31,
+            "position": 31,
+            "name": "kickpanel",
+            "icon": "cli",
+            "label": "kickpanel_label",
+            "isOpen": false,
+            "dynamic": true,
+            "hasComponent": true,
+            "content": {}
         }
     ]
 }
