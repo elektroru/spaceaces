@@ -135,7 +135,9 @@
     "153": { "engineClass": 12, "laserClass": 12, "offsetId": 15, "engineTop": true,"engineType": 3 },
     "154": { "engineClass": 13, "laserClass": 13, "offsetId": 17, "engineTop": true,"engineType": 3 },
     "155": { "engineClass": "goldSpectrum", "laserClass": "goldSpectrum", "offsetId": 14, "engineTop": true,"engineType": 3 },
-    "156": { "engineClass": 16, "laserClass": 16, "offsetId": 16, "engineTop": true, "engineType": 3 }
+    "156": { "engineClass": 16, "laserClass": 16, "offsetId": 16, "engineTop": true, "engineType": 3 },
+	"157": { "overrideId": 11, "engineClass": 9999, "laserClass": 9999, "offsetId": 13 },
+    "158": { "engineClass": 38, "laserClass": 43, "offsetId": 1, "engineType": 3 }
   },
   "offsets": {
     "EXPANSION_OFFSETS": {
