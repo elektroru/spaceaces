@@ -147,7 +147,8 @@
         "module": {
             "1": {"id": 1, "popoverKey": "mhon-01", "iconPath": "/module", "name": "mhon-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "2": {"id": 2, "popoverKey": "mn-01", "iconPath": "/module", "name": "mn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
-            "3": {"id": 3, "popoverKey": "mx-01", "iconPath": "/module", "name": "mx-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]}
+            "3": {"id": 3, "popoverKey": "mx-01", "iconPath": "/module", "name": "mx-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
+			"7": {"id": 7, "simple": "MSRGBN-01", "popoverKey": "msrgbn-01", "iconPath": "/module", "name": "msrgbn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"], "itemOfferConfig": {"type": "range", "min": 0, "max": 360}}
         },
         "structureModule": {
             "4": {"id": 4, "popoverKey": "md-01", "iconPath": "/structureModule", "name": "md-01", "type": "structureModule", "subtype": "ship", "sizes": ["30", "63", "100"]},
