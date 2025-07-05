@@ -128,7 +128,14 @@
     "146": {"scale": 375, "engineClass": 47, "laserClass": 16, "offsetId": 14, "clickRadius": 70},
 	"147": {"engineClass": 5, "laserClass": 5, "offsetId": 9, "clickRadius": 40},
 	"148": {"scale": 375, "engineClass": "venom", "laserClass": "venom", "offsetId": 27,"engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "rocketDetonation": 2, "rlDetonation": 1, "destroyShockwave": false},
-	"149": {"scale": 375, "engineClass": "sentinel", "laserClass": "sentinel", "offsetId": 27,"engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "rocketDetonation": 2, "rlDetonation": 1, "destroyShockwave": false}
+	"149": {"scale": 375, "engineClass": "sentinel", "laserClass": "sentinel", "offsetId": 27,"engineTop": false, "frostyTrail": false, "frostyTrailTime": 500,  "destroyExplosion": 0, "rocketDetonation": 2, "rlDetonation": 1, "destroyShockwave": false},
+	"150": { "visualExpansions": [22], "overrideId": 6, "shipExpansionAlpha": true, "engineClass": 9999, "laserClass": 9999, "offsetId": 32, "isBeacon": true, "useDot": "beaconPassive" },
+	"151": { "engineClass": 15, "laserClass": 15, "offsetId": 18, "engineTop": true,"engineType": 3 },
+    "152": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "engineTop": true,"engineType": 3 },
+    "153": { "engineClass": 12, "laserClass": 12, "offsetId": 15, "engineTop": true,"engineType": 3 },
+    "154": { "engineClass": 13, "laserClass": 13, "offsetId": 17, "engineTop": true,"engineType": 3 },
+    "155": { "engineClass": "goldSpectrum", "laserClass": "goldSpectrum", "offsetId": 14, "engineTop": true,"engineType": 3 },
+    "156": { "engineClass": 16, "laserClass": 16, "offsetId": 16, "engineTop": true, "engineType": 3 }
   },
   "offsets": {
     "EXPANSION_OFFSETS": {

@@ -391,7 +391,14 @@
 	  "146": {"path":"ships/venomred","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "147": {"path":"ships/leolove","end": 0,"start": 0,"isWebp": false,"preload": true,"unload": true,"isSingleFile": false,"customExtension": null,"useAtlas": false},
 	  "148": {"path":"ships/venomFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "149": {"path":"ships/sentinelFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+	  "149": {"path":"ships/sentinelFrosty","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "150":{"path":"ships/beacon","end": 0,"start": 0,"isWebp": false,"preload": true,"unload": true,"isSingleFile": false,"customExtension": null,"useAtlas": false},
+      "151":{"path":"ships/sentinelGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "152":{"path":"ships/gryphonGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "153":{"path":"ships/solaceGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "154":{"path":"ships/diminisherGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "155":{"path":"ships/spectrumGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "156":{"path":"ships/venomGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
@@ -575,7 +582,8 @@
       "16": ["expansions/16", 0, 0, false],
       "17": ["expansions/17", 0, 0, false],
       "18": ["expansions/18", 61, 1, false],
-      "19": ["expansions/19", 41, 1, false]
+      "19": ["expansions/19", 41, 1, false],
+	  "22": ["expansions/22", 0, 0, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],

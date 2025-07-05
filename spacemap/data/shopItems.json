@@ -55,7 +55,13 @@
 		"138": {"name": "G-DiminisherFrosty","icon": "diminisherFrosty","desc": "diminisherFrosty_shop_desc"},
 		"146": {"name": "G-V0-RGB", "icon": "venomrgb", "desc": "venomrgb_shop_desc"},
 		"148": {"name": "G-V0-Frosty", "icon": "venomfrozen", "desc": "venomfrosty_shop_desc"},
-		"149": {"name": "G-S3N-Frosty", "icon": "sentinelfrozen", "desc": "sentinelfrozen_shop_desc"}
+		"149": {"name": "G-S3N-Frosty", "icon": "sentinelfrozen", "desc": "sentinelfrozen_shop_desc"},
+		"151": { "name": "Sentinel-Gold", "icon": "sentinelgold", "desc": "sentinelgold_shop_desc" },
+        "152": { "name": "Goliath-Gold", "icon": "ganniversary", "desc": "ganniversary_shop_desc" },
+        "153": { "name": "Solace-Gold", "icon": "solacegold", "desc": "solacegold_shop_desc" },
+        "154": { "name": "Diminisher-Gold", "icon": "dimigold", "desc": "dimigold_shop_desc" },
+        "155": { "name": "Spectrum-Gold", "icon": "specgold", "desc": "specgold_shop_desc" },
+        "156": { "name": "Venom-Gold", "icon": "venomgold", "desc": "venomgold_shop_desc" }
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},
