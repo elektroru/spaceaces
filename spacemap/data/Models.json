@@ -55,7 +55,10 @@
       "hqeic": ["stations/clanHqEic", 0, 0, false, true, true, true],
       "clan_op_hubeic": ["stations/clanOpsEic", 0, 0, false, true, true, true],
       "hqvru": ["stations/clanHqVru", 0, 0, false, true, true, true],
-      "clan_op_hubvru": ["stations/clanOpsVru", 0, 0, false, true, true, true]
+      "clan_op_hubvru": ["stations/clanOpsVru", 0, 0, false, true, true, true],
+	  "clan_member_quartersmmo": ["stations/clanQuartersMmo", 0, 0, false, true, true, true],
+      "clan_member_quarterseic": ["stations/clanQuartersEic", 0, 0, false, true, true, true],
+      "clan_member_quartersvru": ["stations/clanQuartersVru", 0, 0, false, true, true, true]
   },
   "stationEngines": {
       "Eic": ["stations/engineEic", 0, 0, true, true, true, true],
@@ -400,7 +403,8 @@
       "155":{"path":"ships/spectrumGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "156":{"path":"ships/venomGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "157":{"path":"ships/cakeBoss","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-      "158":{"path":"ships/palGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+      "158":{"path":"ships/palGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "160":{"path":"ships/viperGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
