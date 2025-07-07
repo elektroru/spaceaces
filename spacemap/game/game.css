@@ -82,12 +82,17 @@
   }
   @font-face {
     font-family: "CorpFontRegular";
-    src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
+    src: url("https://akumwow.uk/spacemap/fonts/EurostileRegular.ttf") format('truetype');
   }
     @font-face {
     font-family: "CorpFontHeavy";
-    src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
+    src: url("https://akumwow.uk/spacemap/fonts/EurostileRegular.ttf") format('truetype');
   }
+  
+  @font-face {
+    font-family: "CorpFontUsername";
+    src: url("https://akumwow.uk/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
+}
   
   .circle-bg { 
     width: 400px;

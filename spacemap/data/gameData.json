@@ -581,11 +581,13 @@
     "DRONE_SIMPLE_MARGIN_X": 3,
     "DRONE_SIMPLE_FONT": "12px sans-serif",
     "SKILL_VISUAL_FONT": "bold 10px CorpFontRegular",
-    "USERNAME_FONT": "550 17px CorpFontRegular",
+    "USERNAME_FONT": "550 17px CorpFontUsername",
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
+	"HIT_FW": "CorpFontRegular"
+	"HIT_FONT": "CorpFontRegular"
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
-	"SHIP_INFO_BORDER": 4
+	"SHIP_INFO_BORDER": 4,
   },
   "titleColors": {
     "default": "#fefe00",
@@ -743,6 +745,7 @@
     "SHIELD_VOL": 10,
     "MISC_VOL": 11,
     "UI_VOL": 12,
+	"PRO_MODE": 14,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,
