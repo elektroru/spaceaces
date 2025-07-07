@@ -305,6 +305,11 @@
                     "isCheck": false,
                     "hint": "kill_vfx_hint",
                     "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "on", "val": "on"}]
+                },
+				{
+                    "name": "ui_anim_speed",
+                    "isCheck": false,
+                    "options": [{"id": 1, "label": "short", "val": 500}, {"id": 2, "label": "medium", "val": 1000}, {"id": 3, "label": "long", "val": 1500}]
                 }
                 ],
                 [{
