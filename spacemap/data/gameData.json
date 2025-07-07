@@ -147,8 +147,7 @@
     "166": { "engineClass": "convoy", "laserClass": "convoy", "offsetId": "convoy", "guideOnTarget": false },
     "167": { "engineClass": "battleray", "laserClass": "battleray", "offsetId": "convoy", "guideOnTarget": false },
 	"173": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "clickRadius": 70},
-    "174": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70},
-	"175": { "engineClass": 9999, "laserClass": 18, "offsetId": 37, "engineTop": false, "midasTouch": true,"destroyExplosion": false, }
+    "174": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {
