@@ -210,7 +210,8 @@
       "11": {"yShock": 60, "xShock": 10, "xMargin": -10, "yMargin": -10},
       "12": {"yShock": 60, "xShock": 10, "xMargin": -10, "yMargin": -10},
       "13": {"yShock": 30, "xShock": 10, "xMargin": -10, "yMargin": -10},
-      "14": {"yShock": 5, "xShock": -7, "xMargin": -10, "yMargin": -10}
+      "14": {"yShock": 5, "xShock": -7, "xMargin": -10, "yMargin": -10},
+	  "16": { "yShock": 0, "xShock": 0, "xMargin": 0, "yMargin": 0 }
     },
     "STATION_OFFSETS": {
       "Mmo": { "x": 851.5, "y": 979 },

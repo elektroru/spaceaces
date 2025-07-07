@@ -529,7 +529,11 @@
           "14": {
               "active": ["portals/portal14/active", 1, 0],
               "idle": ["portals/portal14/idle", 1, 0]
-          }
+          },
+		  "16": {
+                "active": ["portalsn/portal16/active", 1, 0, false],
+                "idle": ["portalsn/portal16/idle", 1, 0, false]
+            }
       }
   },
   "lensflares": {

@@ -2169,5 +2169,16 @@
       "angle": 225,
       "id": 0
     }]
-  }
+  },
+  "362": {
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "name": "GG Y1",
+    "useMap": 123,
+    "useMapBg": false,
+    "nebulas": [],
+    "stations": []
+  },
 }
