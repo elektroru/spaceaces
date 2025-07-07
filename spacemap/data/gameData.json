@@ -741,7 +741,7 @@
     "ROBOT_VOL": 9,
     "SHIELD_VOL": 10,
     "MISC_VOL": 11,
-    "UI_VOL": 12
+    "UI_VOL": 12,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,
