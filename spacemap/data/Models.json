@@ -405,7 +405,8 @@
       "156":{"path":"ships/venomGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "157":{"path":"ships/cakeBoss","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "158":{"path":"ships/palGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "160":{"path":"ships/viperGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+	  "160":{"path":"ships/viperGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "161":{"path":"ships/satellite","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {

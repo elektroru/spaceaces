@@ -1562,6 +1562,9 @@
                         "8": {"uri": 300000, "credits": 8000000000},
                         "9": {"uri": 350000, "credits": 9000000000},
                         "10": {"uri": 400000, "credits": 10000000000}
+                    }},
+					{"id": 4, "type": "clan_sat", "scale": 1, "maxLvl": 1, "costs": {
+                        "1": {"uri": 400000, "credits": 10000000000}
                     }}
                 ],
 				"tierRewards": {
