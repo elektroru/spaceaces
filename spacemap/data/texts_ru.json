@@ -443,7 +443,7 @@
   "enemy_wave": "Волна противника - %WAVE",
   "new_phase": "Фаза карты - %PHASE",
   "edit_layout": "Редактировать пользовательский интерфейс",
-  "end_edit_layot": "Закончить редактирование",
+  "end_edit_layout": "Закончить редактирование",
   "received_hon": "Вы получили %HON очков чести",
   "received_xp": "Вы получили %XP XP",
   "received_cred": "Вы получили %CRED кредитов",
