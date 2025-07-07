@@ -1954,6 +1954,25 @@
                 "useDefPosition": true
             },
             "content": {}
+        },
+		 {
+            "id": 32,
+            "position": 32,
+            "name": "supercalendar",
+            "icon": "supercalendar",
+            "label": "supercalendar_label",
+            "isOpen": false,
+            "hasComponent": true,
+            "size": {
+                "minW": 700,
+                "minH": 450
+            },
+            "controller": {
+                "x": 0,
+                "y": 156,
+                "useDefPosition": true
+            },
+            "content": {}
         }
     ]
 }

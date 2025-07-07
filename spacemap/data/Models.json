@@ -123,7 +123,8 @@
       "319": ["backgrounds/background319", 0, 0, false, true, true, true, "jpg"],
       "350": ["backgrounds/background350", 0, 0, false, true, true, true, "jpg"],
       "351": ["backgrounds/background351", 0, 0, false, true, true, true, "jpg"],
-      "352": ["backgrounds/background352", 0, 0, false, true, true, true, "jpg"]
+      "352": ["backgrounds/background352", 0, 0, false, true, true, true, "jpg"],
+	  "361": ["backgrounds/background361", 0, 0, false, true, true, true, "jpg"]
   },
   "shipsSimple": {
       "1": ["ships/simple/enforcer", 0, 0, false],
@@ -895,7 +896,8 @@
       "16": ["collectables/ree", 1, 1, false],
       "17": ["collectables/selenite", 1, 1, false],
 	  "20": ["collectables/prismium", 0, 0, false],
-	  "22": ["collectables/heartBoxAnimated", 0, 0, true]
+	  "22": ["collectables/heartBoxAnimated", 0, 0, true],
+	  "23": ["collectables/cake", 0, 0, false]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
