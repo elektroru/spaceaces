@@ -258,7 +258,7 @@
       "20": ["ships/kick", 32, 0, true, true, true],
       "21": ["ships/referee", 32, 0, true, true, true],
       "22": ["ships/america", 32, 0, true, true, true],
-      "23": ["ships/spectrum", 32, 1, false, true, true],
+      "23": ["ships/spectrum", 32, 01, false, true, true],
       "24": ["ships/solace", 32, 0, true, true, true],
       "25": ["ships/venom", 32, 0, true, true, true],
       "26": ["ships/diminisher", 32, 0, true, true, true],
@@ -606,7 +606,7 @@
       "18": ["expansions/18", 61, 1, false],
       "19": ["expansions/19", 41, 1, false],
 	  "22": ["expansions/22", 0, 0, false],
-	  "23": ["expansions/23", 32, 1, false]
+	  "23": ["expansions/23", 32, 01, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],
