@@ -7718,9 +7718,9 @@
     animation-iteration-count: infinite;
     animation-timing-function: ease; 
   }
-  .slide-items span, .slide-items div {
-    animation: slide 30s infinite linear;
-  }
+  .slide-items > div {
+  animation: slide 15s infinite linear;
+}
   
   .typing {
     overflow: hidden; /* Ensures the content is not revealed until the animation */
@@ -7789,10 +7789,13 @@
   }
   
   @keyframes slide {
-    to {
-      transform: translatex(-100%)
-    }
+  from {
+    transform: translateX(100%);
   }
+  to {
+    transform: translateX(-100%);
+  }
+}
   
   @keyframes typing {
     from { width: 0 }
