@@ -584,7 +584,7 @@
     "USERNAME_FONT": "550 17px CorpFontUsername",
     "TITLE_FONT": "normal 14px CorpFontRegular",
     "TITLE_FONT_IMPORTANT": "bold 16px CorpFontRegular",
-	"HIT_FW": "CorpFontRegular",
+	"HIT_FW": "bold",
 	"HIT_FONT": "CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
 	"SHIP_INFO_BORDER": 4
