@@ -62,7 +62,9 @@
         "154": { "name": "Diminisher-Gold", "icon": "dimigold", "desc": "dimigold_shop_desc" },
         "155": { "name": "Spectrum-Gold", "icon": "specgold", "desc": "specgold_shop_desc" },
         "156": { "name": "Venom-Gold", "icon": "venomgold", "desc": "venomgold_shop_desc" },
-        "160": { "name": "Veng-Gold", "icon": "venggold", "desc": "vgold_shop_desc" }
+        "160": { "name": "Veng-Gold", "icon": "venggold", "desc": "vgold_shop_desc" },
+		"163": {"name": "Phoenix Champion", "icon": "phoenixchamp", "desc": "phoenixchamp_shop_desc"},
+        "164": {"name": "G-Sakura", "icon": "gsakura", "desc": "gsakura_shop_desc"}
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},

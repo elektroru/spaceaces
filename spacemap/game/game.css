@@ -6242,7 +6242,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     position: relative;
-    --locked-points-text: none;
+    width: fit-content;
   }
   .pilotsheet .pilot-sheet-section .row {
     gap: 10px;
@@ -6327,7 +6327,7 @@
     color: #4cb5dd;
   }
   .pilotsheet .pilot-sheet-info {
-    width: 170px;
+    width: fit-content;
     height: fit-content;
     position: fixed;
     z-index: 4;

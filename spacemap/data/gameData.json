@@ -139,7 +139,10 @@
 	"157": { "overrideId": 11, "engineClass": 9999, "laserClass": 9999, "offsetId": 13 },
     "158": { "engineClass": 38, "laserClass": 43, "offsetId": 1, "engineType": 3 },
 	"160": { "engineClass": 10, "laserClass": 17, "offsetId": 19, "engineType": 3 },
-	"161": { "drawInfo": false, "engineClass": 9999, "overrideId": 9999, "laserClass": 9999, "offsetId": 1, "allowHover": false, "canBeLocked": false, "showOnMinimap": false, "isSpinny": true }
+	"161": { "drawInfo": false, "engineClass": 9999, "overrideId": 9999, "laserClass": 9999, "offsetId": 1, "allowHover": false, "canBeLocked": false, "showOnMinimap": false, "isSpinny": true },
+	"162": { "overrideId": 9, "engineClass": 9999, "laserClass": 9999, "offsetId": 131 },
+	"163": { "engineClass": "PhoenixChamp", "laserClass": "PhoenixChamp", "offsetId": 33 },
+    "164": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "engineTop": false, "destroyExplosion": false}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {

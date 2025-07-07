@@ -406,7 +406,10 @@
 	  "157":{"path":"ships/cakeBoss","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
       "158":{"path":"ships/palGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "160":{"path":"ships/viperGold","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "161":{"path":"ships/satellite","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
+	  "161":{"path":"ships/satellite","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "162":{"path":"ships/eggperror","end":0,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "163":{"path":"ships/phoenixchamp","end":59,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "164":{"path":"ships/gsakura","end":63,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false}
   },
   "minimap": {
       "dots": {
@@ -898,7 +901,9 @@
       "17": ["collectables/selenite", 1, 1, false],
 	  "20": ["collectables/prismium", 0, 0, false],
 	  "22": ["collectables/heartBoxAnimated", 0, 0, true],
-	  "23": ["collectables/cake", 0, 0, false]
+	  "23": ["collectables/cake", 0, 0, false],
+	  "24": ["collectables/eggBoxSm", 0, 0, true],
+      "25": ["collectables/eggBox", 0, 0, true]
   },
   "beams": {
       "0": ["effects/beam", 15, 1, true]
