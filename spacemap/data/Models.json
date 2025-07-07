@@ -415,7 +415,7 @@
       "167": {"path": "ships/battleray", "end": 32, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
 	  "173": {"path":"ships/gryphonInferno","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "174": {"path":"ships/palInferno","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-	  "175": {"path": "ships/ginfiltrator", "end": 0, "start": 0, "isWebp": true, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false }
+	  "175": {"path": "ships/ginfiltrator", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false }
   },
   "minimap": {
       "dots": {
