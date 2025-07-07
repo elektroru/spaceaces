@@ -66,7 +66,6 @@
 		"163": {"name": "Phoenix Champion", "icon": "phoenixchamp", "desc": "phoenixchamp_shop_desc"},
         "164": {"name": "G-Sakura", "icon": "gsakura", "desc": "gsakura_shop_desc"},
 		"173": {"name": "G-infernoa", "icon": "ginferno", "desc": "ginferno_shop_desc" },
-		"175": {"name": "G-Pirate", "icon": "ginfiltrator", "desc": "ginfiltrator_shop_desc" }
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},
