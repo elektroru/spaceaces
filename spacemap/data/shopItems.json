@@ -91,8 +91,7 @@
     },
     "4": {
         "1": {"name": "SG3N-B02", "icon": "sg3n-b02", "desc": "sg3nb02_shop_desc"},
-        "2": {"name": "G3N-7900", "icon": "g3n-7900", "desc": "g3n7900_shop_desc"},
-		"3": {"name": "X-SHG3N-PRL", "icon": "shd_antiprl", "desc": "shd_antiprl_shop_desc"}
+        "2": {"name": "G3N-7900", "icon": "g3n-7900", "desc": "g3n7900_shop_desc"}
     },
     "5": {
         "1": {"name": "SKM-01","icon": "skm-01", "iconBg": "shipRepre", "keyPath": ["sfx", "singularity"], "desc": "skm-01_shop_desc"},
