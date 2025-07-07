@@ -144,7 +144,8 @@
 	"163": { "engineClass": "PhoenixChamp", "laserClass": "PhoenixChamp", "offsetId": 33 },
     "164": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "engineTop": false, "destroyExplosion": false},
 	"173": { "engineClass": 42, "laserClass": 82, "offsetId": 1, "clickRadius": 70},
-    "174": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70}
+    "174": { "engineClass": 38, "laserClass": 43, "offsetId": 3, "clickRadius": 70},
+	"175": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70}
   },
   "offsets": {
     "EXPANSION_OFFSETS": {
