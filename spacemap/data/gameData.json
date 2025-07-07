@@ -749,6 +749,7 @@
     "MISC_VOL": 11,
     "UI_VOL": 12,
 	"PRO_MODE": 14,
+	"KILL_VFX": 16,
     "KEYBINDINGS": {
       "AB_1": 0,
       "AB_2": 1,

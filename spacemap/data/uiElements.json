@@ -299,6 +299,12 @@
                     "name": "laserflash",
                     "isCheck": false,
                     "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "on", "val": "on"}]
+                },
+				{
+                    "name": "kill_vfx",
+                    "isCheck": false,
+                    "hint": "kill_vfx_hint",
+                    "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "on", "val": "on"}]
                 }
                 ],
                 [{
