@@ -56,16 +56,17 @@
 		"146": {"name": "G-V0-RGB", "icon": "venomrgb", "desc": "venomrgb_shop_desc"},
 		"148": {"name": "G-V0-Frosty", "icon": "venomfrozen", "desc": "venomfrosty_shop_desc"},
 		"149": {"name": "G-S3N-Frosty", "icon": "sentinelfrozen", "desc": "sentinelfrozen_shop_desc"},
-		"151": { "name": "Sentinel-Gold", "icon": "sentinelgold", "desc": "sentinelgold_shop_desc" },
-        "152": { "name": "Goliath-Gold", "icon": "ganniversary", "desc": "ganniversary_shop_desc" },
-        "153": { "name": "Solace-Gold", "icon": "solacegold", "desc": "solacegold_shop_desc" },
-        "154": { "name": "Diminisher-Gold", "icon": "dimigold", "desc": "dimigold_shop_desc" },
-        "155": { "name": "Spectrum-Gold", "icon": "specgold", "desc": "specgold_shop_desc" },
-        "156": { "name": "Venom-Gold", "icon": "venomgold", "desc": "venomgold_shop_desc" },
-        "160": { "name": "Veng-Gold", "icon": "venggold", "desc": "vgold_shop_desc" },
+		"151": {"name": "Sentinel-Gold", "icon": "sentinelgold", "desc": "sentinelgold_shop_desc" },
+        "152": {"name": "Goliath-Gold", "icon": "ganniversary", "desc": "ganniversary_shop_desc" },
+        "153": {"name": "Solace-Gold", "icon": "solacegold", "desc": "solacegold_shop_desc" },
+        "154": {"name": "Diminisher-Gold", "icon": "dimigold", "desc": "dimigold_shop_desc" },
+        "155": {"name": "Spectrum-Gold", "icon": "specgold", "desc": "specgold_shop_desc" },
+        "156": {"name": "Venom-Gold", "icon": "venomgold", "desc": "venomgold_shop_desc" },
+        "160": {"name": "Veng-Gold", "icon": "venggold", "desc": "vgold_shop_desc" },
 		"163": {"name": "Phoenix Champion", "icon": "phoenixchamp", "desc": "phoenixchamp_shop_desc"},
         "164": {"name": "G-Sakura", "icon": "gsakura", "desc": "gsakura_shop_desc"},
-		"173": { "name": "G-infernoa", "icon": "ginferno", "desc": "ginferno_shop_desc" }
+		"173": {"name": "G-infernoa", "icon": "ginferno", "desc": "ginferno_shop_desc" },
+		"175": {"name": "G-Pirate", "icon": "ginfiltrator", "desc": "ginfiltrator_shop_desc" }
     },
     "2": {
         "1": {"name": "LF-4", "icon": "lf4", "desc": "lf4_shop_desc"},
@@ -91,7 +92,8 @@
     },
     "4": {
         "1": {"name": "SG3N-B02", "icon": "sg3n-b02", "desc": "sg3nb02_shop_desc"},
-        "2": {"name": "G3N-7900", "icon": "g3n-7900", "desc": "g3n7900_shop_desc"}
+        "2": {"name": "G3N-7900", "icon": "g3n-7900", "desc": "g3n7900_shop_desc"},
+		"3": {"name": "X-SHG3N-PRL", "icon": "shd_antiprl", "desc": "shd_antiprl_shop_desc"}
     },
     "5": {
         "1": {"name": "SKM-01","icon": "skm-01", "iconBg": "shipRepre", "keyPath": ["sfx", "singularity"], "desc": "skm-01_shop_desc"},
