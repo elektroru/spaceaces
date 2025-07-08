@@ -262,7 +262,7 @@
       "24": ["ships/solace", 32, 0, true, true, true],
       "25": ["ships/venom", 32, 0, true, true, true],
       "26": ["ships/diminisher", 32, 0, true, true, true],
-      "27": ["ships/sentinel", 32, 0, true, true, true],
+      "27": ["ships/sentinel", 32, 0, false, true, true],
       "28": ["ships/turkey", 32, 0, true, true, true],
       "29": ["ships/vlight", 32, 0, true, true, true],
       "30": ["ships/pusat", 32, 0, true, true, true],
@@ -607,7 +607,8 @@
       "19": ["expansions/19", 41, 1, false],
 	  "22": ["expansions/22", 0, 0, false],
 	  "23": ["expansions/23", 32, 0, false],
-	  "24": ["expansions/24", 32, 0, false]
+	  "24": ["expansions/24", 32, 0, false],
+	  "25": ["expansions/25", 32, 0, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],
