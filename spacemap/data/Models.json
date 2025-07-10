@@ -608,7 +608,8 @@
 	  "22": ["expansions/22", 0, 0, false],
 	  "23": ["expansions/23", 32, 0, false],
 	  "24": ["expansions/24", 32, 0, false],
-	  "25": ["expansions/25", 32, 0, false]
+	  "25": ["expansions/25", 32, 0, false],
+	  "26": ["expansions/26", 32, 0, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],
