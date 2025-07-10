@@ -28,7 +28,7 @@
     "24": {"engineClass": 12, "laserClass": 12, "offsetId": 15, "clickRadius": 70},
     "25": {"engineClass": 16, "laserClass": 16, "offsetId": 16, "clickRadius": 70},
     "26": {"engineClass": 13, "laserClass": 13, "offsetId": 17, "clickRadius": 70},
-    "27": {"engineClass": 15, "laserClass": 15, "offsetId": 18, "clickRadius": 70, "visualExpansions": [25]},
+    "27": {"engineClass": 15, "laserClass": 15, "offsetId": 18, "clickRadius": 70, "visualExpansions": [25], "expansionOffsetY": -5, "expansionOffsetX": 0},
     "28": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "107": {"engineClass": 11, "laserClass": 11, "offsetId": 1, "clickRadius": 70},
     "29": {"engineClass": 10, "laserClass": 17, "offsetId": 19, "clickRadius": 55, "visualExpansions": [26]},
