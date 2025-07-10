@@ -312,9 +312,9 @@
       "75": ["ships/bosskuc", 36, 1, true, false, true],
       "76": ["ships/demaner", 32, 0, true, false, true],
       "77": ["ships/icy", 32, 0, false, false, true],
-      "78": ["ships/vanquisher", 32, 0, true, true, true],
-      "79": ["ships/sovereign", 32, 0, true, true, true],
-      "80": ["ships/peacemaker", 32, 0, true, true, true],
+      "78": ["ships/vanquisher", 32, 0, false, true, true],
+      "79": ["ships/sovereign", 32, 0, false, true, true],
+      "80": ["ships/peacemaker", 32, 0, false, true, true],
       "81": ["ships/saturn", 32, 0, true, true, true],
       "82": ["ships/german", 32, 0, true, true, true],
       "83": ["ships/referee", 32, 0, true, true, true],
@@ -358,7 +358,17 @@
       "91": ["ships/bronze", 32, 0, true, false, false],
       "92": ["ships/silver", 32, 0, true, false, false],
       "93": ["ships/gold", 32, 0, true, false, false],
-      "94": {"path":"ships/gspace","end":0,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+      "94": {
+	        "path":"ships/gspace",
+	        "end":0,
+	        "start":0,
+	        "isWebp":true,
+	        "preload":true,
+	        "unload":false,
+	        "isSingleFile":false,
+	        "customExtension":null,
+	        "useAtlas":false
+			},
       "95": ["ships/redg", 32, 0, true, true, true],
       "96": ["ships/moduleXp", 0, 0, false, true, true],
       "97": ["ships/moduleHp", 0, 0, false, true, true],
@@ -609,7 +619,8 @@
 	  "23": ["expansions/23", 32, 0, false],
 	  "24": ["expansions/24", 32, 0, false],
 	  "25": ["expansions/25", 32, 0, false],
-	  "26": ["expansions/26", 32, 0, false]
+	  "26": ["expansions/26", 32, 0, false],
+	  "27": ["expansions/27", 32, 0, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],
