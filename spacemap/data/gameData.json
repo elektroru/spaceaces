@@ -2,7 +2,7 @@
   "shipData": {
     "1": {"engineClass": 1, "laserClass": 1, "offsetId": 1, "clickRadius": 70},
     "2": {"engineClass": 1, "laserClass": 1, "offsetId": 14, "clickRadius": 70, "visualExpansions": [24], "expansionOffsetY": -5, "expansionOffsetX": 0},
-    "3": {"engineClass": 2, "laserClass": 2, "offsetId": 3, "clickRadius": 55},
+    "3": {"engineClass": 2, "laserClass": 2, "offsetId": 3, "clickRadius": 55, "visualExpansions": [28]},
     "4": {"engineClass": 2, "laserClass": 2, "offsetId": 2, "clickRadius": 55},
     "5": {"engineClass": 2, "laserClass": 2, "offsetId": 2, "clickRadius": 55, "visualExpansions": [28]},
     "6": {"engineClass": 0, "laserClass": 0, "offsetId": 6, "clickRadius": 40},
