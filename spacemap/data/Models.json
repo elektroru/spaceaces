@@ -240,7 +240,7 @@
       "2": ["ships/bastion", 32, 0, false, true, true],
       "3": ["ships/vengeance", 32, 0, true, true, true],
       "4": ["ships/avenger", 32, 0, true, true, true],
-      "5": ["ships/vengeancedef", 32, 0, true, true, true],
+      "5": ["ships/vengeancedef", 32, 0, false, true, true],
       "6": ["ships/phoenix", 32, 0, true, true, true],
       "7": ["ships/yamato", 32, 0, true, true, true],
       "8": ["ships/defcom", 32, 0, true, true, true],
@@ -620,7 +620,8 @@
 	  "24": ["expansions/24", 32, 0, false],
 	  "25": ["expansions/25", 32, 0, false],
 	  "26": ["expansions/26", 32, 0, false],
-	  "27": ["expansions/27", 32, 0, false]
+	  "27": ["expansions/27", 32, 0, false],
+	  "28": ["expansions/28", 32, 0, false]
   },
   "planets": {
       "1": ["planets/planet1", 0, 0, true],
