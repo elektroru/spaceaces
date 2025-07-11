@@ -368,7 +368,7 @@
 	        "isSingleFile":false,
 	        "customExtension":null,
 	        "useAtlas":false
-			},
+		},
       "95": ["ships/redg", 32, 0, true, true, true],
       "96": ["ships/moduleXp", 0, 0, false, true, true],
       "97": ["ships/moduleHp", 0, 0, false, true, true],
@@ -423,7 +423,16 @@
 	  "165": {"path":"ships/saboteur", "end": 0, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
       "166": {"path":"ships/demanerFreighter", "end": 0, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
 	  "167": {"path":"ships/battleray", "end": 32, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-	  "173": {"path":"ships/gryphonInferno","end":32,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
+	  "173": {"path":"ships/gryphonInferno",
+	         "end":32,
+	         "start":0,
+	         "isWebp":false,
+	         "preload":false,
+	         "unload":true,
+	         "isSingleFile":false,
+	         "customExtension":null,
+	         "useAtlas":false
+	    },
 	  "174": {"path":"ships/palInferno","end":0,"start":0,"isWebp":false,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
 	  "175": {"path":"ships/ginfiltrator", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false }
   },
