@@ -360,9 +360,9 @@
       "93": ["ships/gold", 32, 0, true, false, false],
       "94": {
 	        "path":"ships/gspace",
-	        "end":0,
+	        "end":32,
 	        "start":0,
-	        "isWebp":true,
+	        "isWebp":false,
 	        "preload":true,
 	        "unload":false,
 	        "isSingleFile":false,
