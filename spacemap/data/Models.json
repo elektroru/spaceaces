@@ -597,6 +597,17 @@
 	          "customExtension":null,
 	          "useAtlas":false
 	    },
+	  "139": {
+		      "path":"ships/glove",
+		      "end":0,
+		      "start":0,
+		      "isWebp":true,
+		      "preload":false,
+		      "unload":true,
+		      "isSingleFile":false,
+		      "customExtension":null,
+		      "useAtlas":false
+		},
 	  "146": {
 	          "path":"ships/venomred",
 	          "end":0,
