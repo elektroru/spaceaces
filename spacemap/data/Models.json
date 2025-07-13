@@ -318,7 +318,7 @@
       "81": ["ships/saturn", 32, 0, true, true, true],
       "82": ["ships/german", 32, 0, true, true, true],
       "83": ["ships/referee", 32, 0, true, true, true],
-      "84": ["ships/petPro", 32, 0, true, true, true],
+      "84": ["ships/petPro", 32, 0, false, true, true],
       "85": {
             "path": "ships/cuboranCute",
             "end": 0,
