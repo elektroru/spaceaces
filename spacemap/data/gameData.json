@@ -603,7 +603,7 @@
 	"HIT_FW": "bold",
 	"HIT_FONT": "CorpFontRegular",
     "COLLECTION_FONT": "bold 20px CorpFontRegular",
-	"SHIP_INFO_BORDER": 4
+	"SHIP_INFO_BORDER": 3
   },
   "titleColors": {
     "default": "#fefe00",
