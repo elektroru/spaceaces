@@ -249,7 +249,17 @@
       "11": ["ships/piranha", 32, 0, true, true, true],
       "12": ["ships/nostromo", 32, 0, true, true, true],
       "13": ["ships/bigboy", 32, 0, true, true, true],
-      "14": ["ships/goliath", 32, 0, true, true, true],
+      "14": {
+            "path": "ships/goliath",
+            "end": 32,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
       "15": ["ships/vhonor", 32, 0, true, true, true],
       "16": ["ships/vexp", 32, 0, true, true, true],
       "17": ["ships/gexp", 32, 0, true, true, true],
