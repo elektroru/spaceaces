@@ -1147,10 +1147,6 @@
       "disrupt": {
           "0": ["pyroEffects/disrupt", 19, 1, true, 5]
       },
-      "laser": {
-          "1": ["pyroEffects/laserExplosion1", 15, 1, true],
-          "2": ["pyroEffects/laserExplosion2", 15, 1, true]
-      },
       "explosion": {
           "0": ["pyroEffects/explosion0", 39, 0, true],
           "SmartBomb": ["pyroEffects/smartBomb", 72, 1]
