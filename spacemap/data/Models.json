@@ -1148,8 +1148,8 @@
           "0": ["pyroEffects/disrupt", 19, 1, true, 5]
       },
 	  "laser": {
-          "1": ["pyroEffects/laserExplosion1", 15, 1, true],
-          "2": ["pyroEffects/laserExplosion2", 15, 1, true]
+          "1": ["pyroEffects/laserExplosion1", 0, 0, false],
+          "2": ["pyroEffects/laserExplosion2", 0, 0, false]
       },
       "explosion": {
           "0": ["pyroEffects/explosion0", 39, 0, true],
