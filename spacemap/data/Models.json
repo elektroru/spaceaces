@@ -1172,7 +1172,7 @@
   },
   "shields": {
       "advancedShield": ["shields/shieldAdvanced", 33, 1],
-      "instaShield": ["shields/instaShield", 64, 1, true],
+      "instaShield": ["shields/instaShield", 66, 1, false],
       "barrier": ["shields/barrier", 9, 1],
       "shieldRecharge": ["shields/shieldRecharge", 50, 1, true],
       "invincibilityShield": ["shields/invincibilityShield", 31, 1, true]
