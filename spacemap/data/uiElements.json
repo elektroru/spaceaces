@@ -1931,6 +1931,46 @@
             "content": {}
         },
 		{
+            "id": 15,
+            "position": 11,
+            "name": "competetive",
+            "icon": "scoreevent",
+            "label": "competetivelabel",
+            "isOpen": false,
+            "hasComponent": true,
+            "size": {
+                "minW": 1025,
+                "minH": 625
+            },
+            "controller": {
+                "x": -20,
+                "y": 273,
+                "useDefPosition": true
+            },
+            "content": {
+                "modes": [
+                    {
+                        "id": 1,
+                        "type": "duel",
+                        "name": "duel",
+                        "img": "duel"
+                    },
+                    {
+                        "id": 2,
+                        "type": "duos",
+                        "name": "duos",
+                        "img": "duos"
+                    },
+                    {
+                        "id": 3,
+                        "type": "fteam",
+                        "name": "fullteam",
+                        "img": "fteam"
+                    }
+                ]
+            }
+        },
+		{
             "id": 27,
             "position": 27,
             "name": "perfboard",
@@ -1950,6 +1990,46 @@
             },
             "content": {}
         },
+		{
+        "id": 28,
+        "position": 28,
+        "name": "jpa_overview",
+        "icon": "jpa",
+        "label": "jpa_overview_label",
+        "isOpen": false,
+        "dynamic": true,
+        "hasComponent": true,
+        "size": {
+          "minW": 700,
+          "minH": 450
+        },
+        "controller": {
+          "x": 0,
+          "y": 156,
+          "useDefPosition": true
+        },
+        "content": {}
+      },
+      {
+        "id": 29,
+        "position": 29,
+        "name": "jpa_perf",
+        "icon": "jpa_perf",
+        "label": "jpa_perf_label",
+        "isOpen": false,
+        "dynamic": true,
+        "hasComponent": true,
+        "size": {
+          "minW": 700,
+          "minH": 450
+        },
+        "controller": {
+          "x": 0,
+          "y": 156,
+          "useDefPosition": true
+        },
+        "content": {}
+      },
 		{
             "id": 30,
             "position": 30,

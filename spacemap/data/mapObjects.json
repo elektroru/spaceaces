@@ -1582,21 +1582,24 @@
     "stations": []
   },
   "257": {
-    "useMap": 82,
-    "name": "Duos Competetive"
+      "name": "Duos Competetive",
+      "scale": 0.5,
+      "bg": 52,
+      "useMap": 52,
+      "useMapBg": true
   },
   "256": {
-    "useMap": 254,
-    "name": "Full Team Competetive"
+      "name": "Full Team Competetive",
+      "bg": 24,
+      "useMap": 24,
+      "useMapBg": true
   },
   "255": {
-    "name": "Duel Competetive",
-    "scale": 0.25,
-    "portals": [],
-    "lensflares": [],
-    "planets": [],
-    "nebulas": [],
-    "stations": []
+      "name": "Duel Competetive",
+      "scale": 0.25,
+      "bg": 350,
+      "useMap": 350,
+      "useMapBg": true
   },
   "30": {
     "name": "Spaceball I",

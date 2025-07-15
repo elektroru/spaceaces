@@ -1398,6 +1398,103 @@
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  .competetive:has(.competetive-main[data-is-in-match="true"]) {
+  max-width: 15vw !important;
+}
+
+.competetive .main {
+    height: 100%;
+}
+.competetive span {
+  margin: 0;
+}
+
+.competetive-main {
+  background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgb(37 38 41) 50%, rgba(20,20,20,1) 100%);
+}
+
+.competetive .modes-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.competetive .competetive-mode {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+}
+.competetive .competetive-mode .mode-title {
+  position: absolute;
+  top: 5%
+}
+.competetive .competetive-mode img {
+  width: 100%;
+  height: 100%;
+}
+
+.competetive .competetive-mode .mode-active, .competetive .competetive-mode button {
+  position: absolute;
+  display: none;
+  bottom: 5%;
+}
+.competetive .competetive-mode[data-is-selected="false"] button, .competetive .competetive-mode[data-is-selected="true"] .mode-active {
+  display: block;
+}
+.competetive .controls-wrapper {
+  flex: 1;
+  background: url(./spacemap/ui/competetive/bgTrophy.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.competetive .controls-wrapper button {
+  width: 50%;
+}
+.competetive .competetive-main[data-is-searching="false"] .search-status-wrap, .competetive .competetive-main[data-is-searching="false"] button[action="cancel"], .competetive .competetive-main[data-is-searching="true"] button[action="search"] {
+  display: none;
+}
+.competetive-main[data-is-in-match="true"] .footer-hint, .competetive-main[data-is-searching="true"] .footer-hint {
+  visibility: hidden;
+}
+.competetive-main[data-is-searching="true"] .modes-list {
+  border-top: 1px solid var(--default-blue);
+}
+.competetive-main[data-is-searching="true"] .loading-text {
+  display: block !important;
+}
+.competetive .footer-hint {
+  border-top: 1px solid #287490;
+  width: 90%;
+  max-height: 5vh;
+  overflow-y: auto;
+  margin: auto;
+  padding: 2px 0;
+  box-sizing: border-box;
+  display: block;
+}
+.competetive .competetive-reward-section {
+  border-right: 1px solid var(--default-blue);
+}
+.competetive .reward-list .competetive-reward-section:last-child {
+  border-right: none
+}
+.competetive .footer-hint .footer-text {
+  font-size: 12px;
+  text-shadow: 0 0 5px black;
+  font-weight: 300;
+  align-self: flex-start;
+}
+.competetive .footer-hint .hint-icon {
+  align-self: flex-start;
+}
+.competetive .competetive-main[data-is-in-match="false"] .in-match-wrapper, .competetive .competetive-main[data-is-in-match="true"] .controls-wrapper, .competetive .competetive-main[data-is-in-match="true"] .footer-hint, .competetive .competetive-main[data-is-in-match="true"] .modes-list {
+    display: none;
+}
+.competetive .compet-match-header > span {
+  text-transform: uppercase;
+}
   .arena {
     width: 15vw;
     height: 30vh;
